@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  13 MAY 2017 21:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  15 MAY 2017 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1647,7 +1647,31 @@ Underfull \hbox (badness 1127) in paragraph at lines 85--86
 я, слои по^^?терь, та^^?ких как
  []
 
-[10] [11] [12
+[10]
+Underfull \hbox (badness 2680) in paragraph at lines 89--90
+[]\T2A/ftm/m/n/14.4 Torch7 --- это уни^^?вер^^?саль^^?ный ма^^?те^^?ма^^?ти^^?ч
+е^^?ский фрейм^^?ворк и
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 89--90
+\T2A/ftm/m/n/14.4 про^^?ек^^?ти^^?ро^^?ва^^?ния и обу^^?че^^?ния мо^^?де^^?лей 
+глу^^?бо^^?ко^^?го обу^^?че^^?ния. Гиб^^?кость
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 89--90
+\T2A/ftm/m/n/14.4 до^^?сти^^?га^^?ет^^?ся с по^^?мо^^?щью Lua, так как он яв^^?
+ля^^?ет^^?ся очень лег^^?ким
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 89--90
+\T2A/ftm/m/n/14.4 что поз^^?во^^?ля^^?ет лег^^?ко под^^?клю^^?чать его к сто^^?
+рон^^?не^^?му про^^?грамм^^?но^^?му
+ []
+
+[11] [12
 
 ] [13
 
@@ -1669,7 +1693,7 @@ Here is how much of TeX's memory you used:
  51i,11n,47p,1562b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/local
 /share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on pz.pdf (17 pages, 58420 bytes).
+Output written on pz.pdf (17 pages, 59079 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
