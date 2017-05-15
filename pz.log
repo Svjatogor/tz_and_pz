@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  15 MAY 2017 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  16 MAY 2017 01:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1825,32 +1825,78 @@ Underfull \hbox (badness 1442) in paragraph at lines 116--122
 т со^^?бой по^^?сле^^?до^^?ва^^?тель^^?ные
  []
 
-[15 <./nn_create.png (PNG copy)>] [16
+<nn_forward.png, id=59, 488.57532pt x 62.48344pt>
+File: nn_forward.png Graphic file (type png)
+ <use nn_forward.png>
+Package pdftex.def Info: nn_forward.png used on input line 124.
+(pdftex.def)             Requested size: 546.29153pt x 69.8656pt.
 
-] [17
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 124--125
+[][] 
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 122--128
+[]\T2A/ftm/m/n/14.4 Каждый мо^^?дуль или кон^^?тей^^?нер име^^?ет стан^^?дарт^^
+?ные функ^^?ции для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--128
+\T2A/ftm/m/n/14.4 вы^^?чис^^?ле^^?ния вы^^?ход^^?но^^?го со^^?сто^^?я^^?ния, об
+^^?рат^^?но^^?го рас^^?про^^?стра^^?не^^?ния
+ []
+
+[15 <./nn_create.png (PNG copy)> <./nn_forward.png>]
+Underfull \hbox (badness 4531) in paragraph at lines 132--133
+[]\T2A/ftm/m/n/14.4 В до^^?пол^^?не^^?ние к ос^^?нов^^?ным до^^?сту^^?пен по^^?
+сто^^?ян^^?но рас^^?ту^^?щий
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 132--133
+\T2A/ftm/m/n/14.4 двух^^?сто^^?рон^^?ний ин^^?тер^^?фейс меж^^?ду мат^^?рич^^?н
+ым фор^^?ма^^?том Matlab и
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 132--133
+\T2A/ftm/m/n/14.4 фор^^?ма^^?том Tensor или parallel, ко^^?то^^?рый предо^^?ста
+в^^?ля^^?ет функ^^?ции
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 132--133
+\T2A/ftm/m/n/14.4 раз^^?ветв^^?ле^^?ния и ис^^?пол^^?не^^?ния Lua-^^?кода на ло
+^^?каль^^?ных или ма^^?ши^^?нах,
+ []
+
+[16] [17
 
 ] [18
 
 ] [19
 
-
 ] [20
+
+
+] [21
 
 ] (./pz.aux) ) 
 Here is how much of TeX's memory you used:
- 10420 strings out of 493013
- 148020 string characters out of 6135682
- 257798 words of memory out of 5000000
- 13586 multiletter control sequences out of 15000+600000
+ 10426 strings out of 493013
+ 148121 string characters out of 6135682
+ 257807 words of memory out of 5000000
+ 13591 multiletter control sequences out of 15000+600000
  22359 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,11n,47p,2293b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/local
 /share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on pz.pdf (21 pages, 230384 bytes).
+Output written on pz.pdf (22 pages, 243309 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 91 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 35 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
