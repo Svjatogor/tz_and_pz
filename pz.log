@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  16 MAY 2017 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  16 MAY 2017 19:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1464,21 +1464,39 @@ ss on input line 44.
  [5
 
 ]
-Underfull \hbox (badness 1412) in paragraph at lines 48--50
-\T2A/ftm/m/n/14.4 уне^^?вер^^?са^^?ли^^?за^^?ция управ^^?ле^^?ния, про^^?гно^^?
-зи^^?ро^^?ва^^?ние, со^^?зда^^?ние экс^^?перт^^?ных
+Underfull \hbox (badness 1668) in paragraph at lines 48--50
+\T2A/ftm/m/n/14.4 оди^^?ни^^?ми из са^^?мых слож^^?ных в IT-^^?инду^^?стрии. До
+л^^?гое вре^^?мя та^^?кие
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 48--50
-\T2A/ftm/m/n/14.4 си^^?стем, ана^^?лиз нефор^^?ма^^?ли^^?зо^^?ван^^?ной ин^^?фо
-р^^?ма^^?ции и мно^^?гие дру^^?гие
+Underfull \hbox (badness 2529) in paragraph at lines 48--50
+\T2A/ftm/m/n/14.4 за^^?да^^?чи ре^^?ша^^?лись ев^^?ри^^?сти^^?че^^?ски^^?ми ал^
+^?го^^?рит^^?ма^^?ми, ко^^?то^^?рые тре^^?бо^^?ва^^?ли
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 48--50
-\T2A/ftm/m/n/14.4 ней^^?рон^^?ные се^^?ти для клас^^?си^^?фи^^?ка^^?ции и де^^?
-тек^^?ти^^?ро^^?ва^^?ния объ^^?ек^^?тов на
+Underfull \hbox (badness 5022) in paragraph at lines 48--50
+\T2A/ftm/m/n/14.4 огром^^?ных ап^^?па^^?рат^^?ных ре^^?сур^^?сов при ма^^?лой т
+оч^^?но^^?сти ре^^?зуль^^?та^^?та.
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 48--50
+\T2A/ftm/m/n/14.4 На про^^?тя^^?же^^?нии по^^?след^^?них де^^?ся^^?ти лет стре^
+^?ми^^?тель^^?но рас^^?тет и
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 48--50
+\T2A/ftm/m/n/14.4 объ^^?ек^^?тов, об^^?ра^^?зов, уне^^?вер^^?са^^?ли^^?за^^?ция
+ управ^^?ле^^?ния, про^^?гно^^?зи^^?ро^^?ва^^?ние,
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 48--50
+\T2A/ftm/m/n/14.4 ней^^?рон^^?ные се^^?ти для клас^^?си^^?фи^^?ка^^?ции и об^^?
+на^^?ру^^?же^^?ния объ^^?ек^^?тов на
  []
 
 
@@ -1526,6 +1544,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 [6
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]\T2A/ftm/m/n/14.4 Оптимизировать ис^^?поль^^?зо^^?ва^^?ние опе^^?ра^^?тив^^?н
+ой па^^?мя^^?ти и
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
 []\T2A/ftm/m/n/14.4 Третей раз^^?дел по^^?свя^^?щен раз^^?во^^?ра^^?чи^^?ва^^?н
 ию фрейм^^?вор^^?ка на
@@ -1538,9 +1562,9 @@ Underfull \hbox (badness 2980) in paragraph at lines 66--67
  []
 
 
-Underfull \hbox (badness 3735) in paragraph at lines 66--67
-\T2A/ftm/m/n/14.4 ма^^?шин^^?но^^?го обу^^?че^^?ния и их срав^^?не^^?ние. Так ж
-е раз^^?дел со^^?дер^^?жит
+Underfull \hbox (badness 3657) in paragraph at lines 66--67
+\T2A/ftm/m/n/14.4 вы^^?бо^^?ра фрейм^^?вор^^?ка Darknet для встра^^?и^^?ва^^?ни
+я и оп^^?ти^^?ми^^?за^^?ции на
  []
 
 
@@ -1552,13 +1576,19 @@ Underfull \hbox (badness 2961) in paragraph at lines 67--68
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 \T2A/ftm/m/n/14.4 те^^?сти^^?ро^^?ва^^?ния, на^^?строй^^?ки и раз^^?ра^^?бот^^?
-ки мо^^?же^^?лей с по^^?дроб^^?ной
+ки мо^^?де^^?лей с по^^?дроб^^?ной
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 72--73
-\T2A/ftm/m/n/14.4 что поз^^?во^^?ля^^?ет его ис^^?поль^^?зо^^?вать в про^^?мыш^
-^?лен^^?ном сек^^?то^^?ре. Та^^?кие
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\T2A/ftm/m/n/14.4 до^^?ку^^?мен^^?та^^?ци^^?ей и при^^?ме^^?ра^^?ми. По^^?это^^
+?му обу^^?чить^^?ся ис^^?поль^^?зо^^?вать
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 72--73
+\T2A/ftm/m/n/14.4 фрейм^^?ворк мож^^?но до^^?воль^^?но быст^^?ро. Воз^^?мож^^?н
+ость ис^^?поль^^?зо^^?ва^^?ния
  []
 
 [8
@@ -1635,7 +1665,7 @@ Underfull \hbox (badness 1127) in paragraph at lines 79--80
 я, слои по^^?терь, та^^?ких как
  []
 
-[10]
+
 Underfull \hbox (badness 5203) in paragraph at lines 84--85
 []\T2A/ftm/m/n/14.4 Реализция пол^^?но^^?стью ос^^?но^^?ва^^?на на C++, что об^
 ^?лег^^?ча^^?ет
@@ -1653,7 +1683,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 85--86
 роб^^?ная до^^?ку^^?мен^^?та^^?ция для
  []
 
-
+[10]
 Underfull \hbox (badness 2680) in paragraph at lines 89--90
 []\T2A/ftm/m/n/14.4 Torch7 --- это уни^^?вер^^?саль^^?ный ма^^?те^^?ма^^?ти^^?ч
 е^^?ский фрейм^^?ворк и
@@ -1683,7 +1713,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
 ^^?зо^^?ва^^?ние
  []
 
-[11]
+
 Underfull \hbox (badness 10000) in paragraph at lines 97--98
 []\T2A/ftm/m/n/14.4 Второе пре^^?иму^^?ще^^?ства до^^?сти^^?га^^?ет^^?ся за сче
 т вы^^?бран^^?ных
@@ -1701,7 +1731,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 97--98
 API-^^?интер^^?фейс со^^?хра^^?ня^^?ет
  []
 
-
+[11]
 Underfull \hbox (badness 2644) in paragraph at lines 99--100
 \T2A/ftm/m/n/14.4 сред^^?ства^^?ми. Он ре^^?а^^?ли^^?зо^^?ван как биб^^?лио^^?т
 е^^?ка, ко^^?то^^?рая на^^?пи^^?са^^?на на
@@ -1792,9 +1822,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 103--104
-\T2A/ftm/m/n/14.4 Tensor для пред^^?став^^?ле^^?ния сиг^^?на^^?лов, изоб^^?ра^^
-?же^^?ний, ви^^?део и дру^^?гих
+Underfull \hbox (badness 2726) in paragraph at lines 103--104
+\T2A/ftm/m/n/14.4 сто^^?рон^^?них па^^?ке^^?тов, за^^?ви^^?ся^^?щих от Torch7, 
+ре^^?а^^?ли^^?зу^^?ют соб^^?ствен^^?ный
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 103--104
+\T2A/ftm/m/n/14.4 класс Tensor для пред^^?став^^?ле^^?ния сиг^^?на^^?лов, изоб^
+^?ра^^?же^^?ний, ви^^?део и
+ []
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 103--104
+\T2A/ftm/m/n/14.4 Биб^^?лио^^?те^^?ка Torch Tensor предо^^?став^^?ля^^?ет мно^^
+?же^^?ство клас^^?си^^?че^^?ских
  []
 
 [13] <torch_plots.png, id=54, 821.31844pt x 199.49532pt>
@@ -1803,8 +1845,8 @@ File: torch_plots.png Graphic file (type png)
 Package pdftex.def Info: torch_plots.png used on input line 110.
 (pdftex.def)             Requested size: 455.24411pt x 110.57509pt.
 
-Underfull \hbox (badness 1231) in paragraph at lines 114--115
-\T2A/ftm/m/n/14.4 кон^^?фер^^?та^^?цию Tensor в QImage и на^^?обо^^?рот. От^^?л
+Underfull \hbox (badness 1442) in paragraph at lines 114--115
+\T2A/ftm/m/n/14.4 кон^^?вер^^?та^^?цию Tensor в QImage и на^^?обо^^?рот. От^^?л
 ич^^?но под^^?хо^^?дит для
  []
 
@@ -1820,7 +1862,8 @@ Underfull \hbox (badness 2961) in paragraph at lines 115--116
 ^?фа поз^^?во^^?ля^^?ет из^^?бе^^?жать
  []
 
-[14] <nn_create.png, id=58, 242.40562pt x 82.80937pt>
+[14 <./torch_plots.png (PNG copy)>]
+<nn_create.png, id=58, 242.40562pt x 82.80937pt>
 File: nn_create.png Graphic file (type png)
  <use nn_create.png>
 Package pdftex.def Info: nn_create.png used on input line 118.
@@ -1872,12 +1915,18 @@ Underfull \hbox (badness 7888) in paragraph at lines 132--133
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 132--133
+Underfull \hbox (badness 1199) in paragraph at lines 132--133
 \T2A/ftm/m/n/14.4 раз^^?ветв^^?ле^^?ния и ис^^?пол^^?не^^?ния Lua-^^?кода на ло
-^^?каль^^?ных или ма^^?ши^^?нах,
+^^?каль^^?ных или уда^^?лен^^?ных
  []
 
-[15 <./torch_plots.png (PNG copy)>]
+
+Underfull \hbox (badness 3323) in paragraph at lines 132--133
+\T2A/ftm/m/n/14.4 ма^^?ши^^?нах, ис^^?поль^^?зуя ме^^?ха^^?низм се^^?ри^^?а^^?л
+и^^?за^^?ции Torch7. Этот спи^^?сок
+ []
+
+[15 <./nn_create.png (PNG copy)> <./nn_forward.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \T2A/ftm/m/n/14.4 ко^^?то^^?рый не име^^?ет обя^^?за^^?тель^^?ных за^^?ви^^?си^
 ^?мо^^?стей. Что поз^^?во^^?ля^^?ет
@@ -1901,7 +1950,7 @@ Underfull \hbox (badness 6110) in paragraph at lines 142--143
 ?ка яв^^?ля^^?ет^^?ся
  []
 
-[16 <./nn_create.png (PNG copy)>]
+
 Underfull \hbox (badness 1248) in paragraph at lines 143--144
 \T2A/ftm/m/n/14.4 мо^^?де^^?ли клас^^?си^^?фи^^?ка^^?ции и обу^^?че^^?ние рек^^
 ?ку^^?рент^^?ных мо^^?де^^?лей. Од^^?на^^?ко,
@@ -1913,7 +1962,7 @@ Underfull \hbox (badness 2941) in paragraph at lines 143--144
 ро^^?ек^^?ти^^?ро^^?ва^^?на спе^^?ци^^?аль^^?но
  []
 
-
+[16]
 Underfull \hbox (badness 4429) in paragraph at lines 144--145
 \T2A/ftm/m/n/14.4 па^^?мя^^?ти. Darnket име^^?ет две эф^^?фек^^?тив^^?ные ре^^?
 а^^?ли^^?за^^?ции свер^^?точ^^?ных
@@ -1937,7 +1986,7 @@ Underfull \hbox (badness 1622) in paragraph at lines 144--145
 ^?ки, ис^^?поль^^?зуя в ос^^?нов^^?ном
  []
 
-[17 <./nn_forward.png>]
+
 Underfull \hbox (badness 1968) in paragraph at lines 146--147
 []\T2A/ftm/m/n/14.4 Ключивыми ти^^?па^^?ми дан^^?ных в Darknet яв^^?лю^^?ют^^?с
 я струк^^?ту^^?ры
@@ -1949,11 +1998,17 @@ Underfull \hbox (badness 2753) in paragraph at lines 146--147
 со^^?бой объ^^?ект для
  []
 
-<network_cfg.png, id=71, 240.9pt x 128.1588pt>
+[17] <network_cfg.png, id=71, 240.9pt x 128.1588pt>
 File: network_cfg.png Graphic file (type png)
  <use network_cfg.png>
 Package pdftex.def Info: network_cfg.png used on input line 149.
 (pdftex.def)             Requested size: 338.01357pt x 179.83957pt.
+
+Underfull \hbox (badness 1173) in paragraph at lines 147--153
+\T2A/ftm/m/n/14.4 пред^^?став^^?ле^^?ние и ре^^?а^^?ли^^?за^^?цию. Это ре^^?а^^
+?ли^^?зу^^?ет^^?ся раз^^?де^^?ле^^?ни^^?ем дан^^?ных
+ []
+
 
 Underfull \hbox (badness 5036) in paragraph at lines 147--153
 \T2A/ftm/m/n/14.4 файл име^^?ет стро^^?ко^^?вый фор^^?мат и пред^^?став^^?ля^^?
@@ -1978,7 +2033,7 @@ Underfull \hbox (badness 3838) in paragraph at lines 155--156
 ^?щий дан^^?ные функ^^?ции
  []
 
-[18]
+[18 <./network_cfg.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 161--162
 []\T2A/ftm/m/n/14.4 Рассмотринные вы^^?ше фрейм^^?вор^^?ки, ис^^?поль^^?зуя раз
 ^^?лич^^?ные
@@ -2024,17 +2079,16 @@ Underfull \hbox (badness 6592) in paragraph at lines 168--169
 ^^?ни^^?ем мак^^?си^^?маль^^?но уско^^?рить
  []
 
-[19 <./network_cfg.png>] [20] [21 <./binary_conv.png (PNG copy)>] [22
+[19 <./binary_conv.png (PNG copy)>] [20] [21
+
+] [22
 
 ] [23
 
-]
-[24
+] [24
+
 
 ] [25
-
-
-] [26
 
 ] (./pz.aux) ) 
 Here is how much of TeX's memory you used:
@@ -2044,13 +2098,13 @@ Here is how much of TeX's memory you used:
  13602 multiletter control sequences out of 15000+600000
  22359 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,11n,47p,2293b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,12n,47p,2293b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/local
 /share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on pz.pdf (27 pages, 369595 bytes).
+Output written on pz.pdf (26 pages, 368987 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
