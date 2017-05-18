@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  16 MAY 2017 19:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  19 MAY 2017 02:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1245,7 +1245,11 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count152
 \c@blind@pangramcount=\count153
 \c@blind@pangrammax=\count154
-) (./pz.aux)
+) (./pz.aux
+
+LaTeX Warning: Label `7' multiply defined.
+
+)
 \openout1 = `pz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -1264,8 +1268,7 @@ LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -2079,32 +2082,318 @@ Underfull \hbox (badness 6592) in paragraph at lines 168--169
 ^^?ни^^?ем мак^^?си^^?маль^^?но уско^^?рить
  []
 
-[19 <./binary_conv.png (PNG copy)>] [20] [21
+[19 <./binary_conv.png (PNG copy)>] [20]
+<neuron.png, id=83, 459.21562pt x 284.56313pt>
+File: neuron.png Graphic file (type png)
+ <use neuron.png>
+Package pdftex.def Info: neuron.png used on input line 176.
+(pdftex.def)             Requested size: 273.14923pt x 169.27156pt.
 
-] [22
+Underfull \hbox (badness 1852) in paragraph at lines 174--180
+\T2A/ftm/m/n/14.4 с клет^^?ка^^?ми го^^?лов^^?но^^?го моз^^?га, ко^^?то^^?рые м
+о^^?гут быть воз^^?буж^^?ден^^?ны^^?ми
+ []
 
-] [23
 
-] [24
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+[]\T2A/ftm/m/n/14.4 —осто€ние ней^^?ро^^?на в мо^^?мент про^^?хо^^?да ней^^?рон
+^^?ной се^^?ти
+ []
+
+[21
+
+ <./neuron.png (PNG copy)>]
+Overfull \hbox (3.77655pt too wide) detected at line 184
+ | \OT1/ftx/m/sl/14.4+ s \OT1/ftx/m/n/14.4 = [] \OT1/ftx/m/sl/14.4+ x[]w[]| \OT
+1/ftx/m/n/14.4 (1)
+ []
 
 
-] [25
+Underfull \hbox (badness 3449) in paragraph at lines 189--190
+[]\T2A/ftm/m/n/14.4 ‘ункци€ f долж^^?на об^^?ла^^?дать свой^^?ством нели^^?ней^
+^?но^^?сти. Ёто
+ []
 
-] (./pz.aux) ) 
+<activation_func.png, id=88, 435.87843pt x 361.35pt>
+File: activation_func.png Graphic file (type png)
+ <use activation_func.png>
+Package pdftex.def Info: activation_func.png used on input line 192.
+(pdftex.def)             Requested size: 273.14923pt x 226.4442pt.
+
+Underfull \hbox (badness 3333) in paragraph at lines 190--196
+[]\T2A/ftm/m/n/14.4 Ќелинейна€ функ^^?ци€ f име^^?ну^^?ет^^?с€ ак^^?ти^^?ва^^?ц
+и^^?он^^?ной функ^^?ци^^?ей
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 196--197
+\T2A/ftm/m/n/14.4 €в^^?л€^^?ет^^?с€ ло^^?ги^^?сти^^?че^^?ска€ функ^^?ци€ или си
+г^^?мо^^?ид (функ^^?ци€ име^^?ет
+ []
+
+
+Overfull \hbox (12.94058pt too wide) detected at line 199
+ | \OT1/ftx/m/sl/14.4+ f\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ x\OT1/ftx/m/n/14
+.4 ) = [] | (2)
+ []
+
+[22 <./activation_func.png (PNG copy)>]
+Overfull \hbox (48.17947pt too wide) detected at line 203
+ | \OT1/ftx/m/sl/14.4+ f[]\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ x\OT1/ftx/m/n/
+14.4 ) = \OML/cmm/m/it/14.4 \OT1/ftx/m/sl/14.4+ f\OT1/ftx/m/n/14.4 (\OT1/ftx/m
+/sl/14.4+ x\OT1/ftx/m/n/14.4 )(1 \OMS/cmsy/m/n/14.4 ^^@ \OT1/ftx/m/sl/14.4+ f\O
+T1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ x\OT1/ftx/m/n/14.4 )) | (2)
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 204--205
+\T2A/ftm/m/n/14.4 из^^?бе^^?жать пе^^?ре^^?на^^?сы^^?ще^^?ни€ от боль^^?ших сиг
+^^?на^^?лов, так как об^^?ла^^?сти
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 204--205
+\T2A/ftm/m/n/14.4 опре^^?де^^?ле^^?ни€ боль^^?ших сиг^^?на^^?лов со^^?от^^?вет^
+^?ству^^?ют по^^?ло^^?го^^?му на^^?кло^^?ну
+ []
+
+<perceptron.png, id=94, 361.35pt x 261.97874pt>
+File: perceptron.png Graphic file (type png)
+ <use perceptron.png>
+Package pdftex.def Info: perceptron.png used on input line 208.
+(pdftex.def)             Requested size: 273.14923pt x 198.03459pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]\T2A/ftm/m/n/14.4 Ќа n вхо^^?дов по^^?сту^^?па^^?ют неко^^?то^^?рые сиг^^?на^
+^?лы, ко^^?то^^?рые
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 212--213
+\T2A/ftm/m/n/14.4 рас^^?про^^?стра^^?н€^^?ют^^?с€ на три ней^^?ро^^?на, об^^?ра
+^^?зу^^?ю^^?щие скры^^?тый слой Ќ—.
+ []
+
+
+Overfull \hbox (86.2216pt too wide) detected at line 215
+ | \OT1/ftx/m/sl/14.4+ y[] \OT1/ftx/m/n/14.4 = \OT1/ftx/m/sl/14.4+ f[][] x[]w[]
+[]\OT1/ftx/m/n/14.4 , \OT1/ftx/m/sl/14.4+ j \OT1/ftx/m/n/14.4 = 1 [] 3 | (2)
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 216--217
+[]\T2A/ftm/m/n/14.4 »з ве^^?со^^?вых ко^^?эф^^?фи^^?ци^^?ен^^?тов мож^^?но со^^
+?ста^^?вить мат^^?ри^^?цу W, в
+ []
+
+[23]
+Underfull \hbox (badness 1173) in paragraph at lines 219--221
+\T2A/ftm/m/n/14.4 --- ак^^?ти^^?ва^^?ци^^?он^^?на€ функ^^?ци€, вы^^?пол^^?н€^^?
+ю^^?ща^^?€^^?с€ над каж^^?дым эле^^?мен^^?том
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 222--223
+[]\T2A/ftm/m/n/14.4 —труктура Ќ— за^^?ви^^?сит от слож^^?но^^?сти за^^?да^^?чи.
+ ќп^^?ти^^?маль^^?ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 кон^^?фи^^?гу^^?ра^^?ции дл€ неко^^?то^^?рых ти^^?пов за^^?да
+^^?чи уже ре^^?а^^?ли^^?зо^^?ван^^?ны
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 и опи^^?са^^?ны, на^^?при^^?мер в [8],[9],[10]. ≈с^^?ли же за
+^^?да^^?ча не €в^^?л€^^?ет^^?с€
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 ти^^?по^^?вой, то раз^^?ра^^?бот^^?чик са^^?мо^^?сто^^?€^^?те
+ль^^?но ге^^?не^^?ри^^?ру^^?ет мо^^?дель, в
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 за^^?ви^^?си^^?мо^^?сти от слож^^?но^^?сти за^^?да^^?чи, раз^
+^?ме^^?ра обу^^?ча^^?ю^^?щей вы^^?бор^^?ки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 и вы^^?чис^^?ли^^?тель^^?ных ре^^?сур^^?сов. ѕри этом необ^^?
+хо^^?ди^^?мо учи^^?ты^^?вать
+ []
+
+
+Underfull \hbox (badness 4805) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 сло^^?ев; слож^^?ность ал^^?го^^?рит^^?мов функ^^?ци^^?о^^?ни
+^^?ро^^?ва^^?ние се^^?ти (на^^?при^^?мер,
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 вве^^?де^^?ние несколь^^?ких ти^^?пов си^^?на^^?прос, ис^^?по
+ль^^?зо^^?ва^^?ние непо^^?ро^^?го^^?вых
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 ак^^?ти^^?ва^^?ци^^?он^^?ных функ^^?ций) вли^^?ет на про^^?из
+^^?во^^?ди^^?тель^^?ность Ќ—. «а^^?да^^?ча
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 се^^?ти на^^?пр€^^?му за^^?ви^^?сит от ти^^?па ре^^?ша^^?е^^?
+мой за^^?да^^?чи, по^^?это^^?му спи^^?сок
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 222--223
+\T2A/ftm/m/n/14.4 по^^?дроб^^?ных ре^^?ко^^?мен^^?да^^?ций со^^?ста^^?вить за^^
+?труд^^?ни^^?тель^^?но. ¬ боль^^?шин^^?стве
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 223--224
+[]\T2A/ftm/m/n/14.4 ќчевидно, что функ^^?ци^^?о^^?ни^^?ро^^?ва^^?ние ней^^?рон^
+^?ной се^^?ти на^^?пр€^^?мую
+ []
+
+[24]
+Underfull \hbox (badness 1325) in paragraph at lines 226--227
+\T2A/ftm/m/n/14.4 ти^^?па: де^^?тер^^?ми^^?нист^^?ские и сто^^?ха^^?сти^^?че^^?
+ские. ¬ пер^^?вом слу^^?чае под^^?бор
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 227--228
+\T2A/ftm/m/n/14.4 се^^?т€х вы^^?ход^^?ное зна^^?че^^?ние ней^^?ро^^?нов мо^^?же
+т быть непре^^?рыв^^?ным, это
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 228--229
+[]\T2A/ftm/m/n/14.4 ≈ще од^^?на клас^^?си^^?фи^^?ка^^?ци€ раз^^?де^^?л€^^?ет Ќ—
+ на син^^?хрон^^?ные и
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 228--229
+\T2A/ftm/m/n/14.4 асин^^?хрон^^?ные[9]. ѕер^^?вый слу^^?чай пред^^?по^^?ло^^?га
+^^?ет из^^?ме^^?не^^?ние со^^?сто^^?€^^?ни€
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 228--229
+\T2A/ftm/m/n/14.4 у все^^?го сло€. ’од вре^^?ме^^?ни в Ќ— пред^^?став^^?лен по^
+^?сле^^?до^^?ва^^?тель^^?ным
+ []
+
+[25] <perceptron2.png, id=108, 607.51968pt x 405.01312pt>
+File: perceptron2.png Graphic file (type png)
+
+<use perceptron2.png>
+Package pdftex.def Info: perceptron2.png used on input line 231.
+(pdftex.def)             Requested size: 273.14923pt x 182.0997pt.
+
+Underfull \hbox (badness 2512) in paragraph at lines 235--236
+[]\T2A/ftm/m/n/14.4 Ѕывают слу^^?чае, ко^^?гда нели^^?ней^^?ность ис^^?поль^^?з
+у^^?ет^^?с€ еще и в
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 235--236
+\T2A/ftm/m/n/14.4 си^^?нап^^?ти^^?че^^?ских св€^^?з€х. Ѕоль^^?шин^^?ство со^^?в
+ре^^?мен^^?ных се^^?тей ис^^?поль^^?зу^^?ют
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 235--236
+\T2A/ftm/m/n/14.4 фор^^?му^^?лу (1) дл€ вы^^?чис^^?ле^^?ни€ зна^^?че^^?ни€ ней^
+^?рон^^?на, од^^?на^^?ко, дл€
+ []
+
+
+Overfull \hbox (59.31067pt too wide) detected at line 242
+ | \OT1/ftx/m/sl/14.4+ s \OT1/ftx/m/n/14.4 = [] \OT1/ftx/m/sl/14.4+ x[]x[]w[] |
+ \OT1/ftx/m/n/14.4 (2)
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 243--244
+\T2A/ftm/m/n/14.4 при на^^?де^^?ле^^?нии ней^^?ро^^?на по^^?доб^^?ной св€^^?зью
+ и ка^^?кие огра^^?ни^^?че^^?ни€ на
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 243--244
+\T2A/ftm/m/n/14.4 ней^^?рон на^^?кла^^?ды^^?ва^^?ют^^?с€. ¬ве^^?де^^?ние та^^?к
+их нели^^?ней^^?ность уве^^?ли^^?чи^^?ва^^?ет
+ []
+
+
+Overfull \hbox (18.3673pt too wide) detected at line 247
+ | \OT1/ftx/m/sl/14.4+ s \OT1/ftx/m/n/14.4 = [] \OT1/ftx/m/sl/14.4+ x[]w[] \OMS
+/cmsy/m/n/14.4 ^^@ \OT1/ftx/m/sl/14.4+ T | \OT1/ftx/m/n/14.4 (11)
+ []
+
+[26] [27 <./perceptron.png (PNG copy)> <./perceptron2.png (PNG copy)>]
+Overfull \hbox (18.3673pt too wide) detected at line 251
+ | \OT1/ftx/m/sl/14.4+ s \OT1/ftx/m/n/14.4 = [] \OT1/ftx/m/sl/14.4+ x[]w[] \OMS
+/cmsy/m/n/14.4 ^^@ \OT1/ftx/m/sl/14.4+ T | \OT1/ftx/m/n/14.4 (11)
+ []
+
+<single_neuron.png, id=115, 664.73344pt x 335.00156pt>
+File: single_neuron.png Graphic file (type png)
+ <use single_neuron.png>
+Package pdftex.def Info: single_neuron.png used on input line 258.
+(pdftex.def)             Requested size: 273.14923pt x 137.65822pt.
+
+[28 <./single_neuron.png (PNG copy)>] [29] [30
+
+] [31
+
+]
+Overfull \hbox (340.37349pt too wide) in paragraph at lines 286--287
+[]\T2A/ftm/m/n/14.4 http://www.shestopaloff.ca/kyriako/Russian/Artificial_Intel
+ligence/Some_publications/Korotky_Neuron_network_Lectures.pdf 
+ []
+
+[32
+
+
+] [33
+
+] (./pz.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10439 strings out of 493013
- 148338 string characters out of 6135682
- 257829 words of memory out of 5000000
- 13602 multiletter control sequences out of 15000+600000
- 22359 words of font info for 50 fonts, out of 8000000 for 9000
+ 10481 strings out of 493013
+ 148949 string characters out of 6135682
+ 257929 words of memory out of 5000000
+ 13631 multiletter control sequences out of 15000+600000
+ 25311 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,47p,2293b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/local
-/share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on pz.pdf (26 pages, 368987 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/share/
+texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/local/share/texmf/fonts/type1/public/pscyr/textb19.pfb></usr/
+local/share/texmf/fonts/type1/public/pscyr/textb19.pfb></usr/local/share/texmf/
+fonts/type1/public/pscyr/times.pfb>
+Output written on pz.pdf (34 pages, 655697 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 161 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 50 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
