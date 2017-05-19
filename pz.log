@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  19 MAY 2017 03:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  19 MAY 2017 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2379,20 +2379,77 @@ LaTeX Font Warning: Font shape `TS1/ftm/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
 (Font)              for symbol `textbullet' on input line 267.
 
-[28 <./single_neuron.png (PNG copy)>] [29] [30
 
-] [31
+Underfull \hbox (badness 1168) in paragraph at lines 273--274
+[]\T2A/ftm/m/n/14.4 Сеть, пред^^?став^^?лен^^?ная на ри^^?сун^^?ке  10[] опи^^?
+сы^^?ва^^?ет сле^^?ду^^?ю^^?щие
+ []
+
+
+Overfull \hbox (15.27765pt too wide) detected at line 276
+ | \OT1/ftx/m/sl/14.4+ x[]w[] \OT1/ftx/m/n/14.4 + \OT1/ftx/m/sl/14.4+ x[]w[] \O
+T1/ftx/m/n/14.4 = \OT1/ftx/m/sl/14.4+ T | \OT1/ftx/m/n/14.4 (11)
+ []
+
+<line_class.png, id=116, 436.63126pt x 398.99063pt>
+File: line_class.png Graphic file (type png)
+ <use line_class.png>
+Package pdftex.def Info: line_class.png used on input line 279.
+(pdftex.def)             Requested size: 273.14923pt x 249.59987pt.
+
+[28 <./single_neuron.png (PNG copy)>]
+Underfull \hbox (badness 1072) in paragraph at lines 283--284
+\T2A/ftm/m/n/14.4 ис^^?клю^^?ча^^?ю^^?ще^^?го ИЛИ. Невоз^^?мож^^?ность ре^^?а^^
+?ли^^?зо^^?вать дан^^?ную функ^^?цию,
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 284--285
+[]\T2A/ftm/m/n/14.4 Задачи, ко^^?то^^?рые не ре^^?ша^^?ют^^?ся од^^?но^^?слой^^
+?ной сеть, на^^?зы^^?ва^^?ют^^?ся
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 287--288
+[]\T2A/ftm/m/n/14.4 1) Про^^?и^^?ни^^?ци^^?а^^?ли^^?зи^^?ро^^?вать ве^^?со^^?вы
+е ко^^?эф^^?фи^^?ци^^?э^^?ны слу^^?чай^^?ны^^?ми
+ []
+
+[29 <./line_class.png (PNG copy)>]
+Overfull \hbox (60.42455pt too wide) detected at line 297
+ | \OT1/ftx/m/sl/14.4+ w[]\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ t \OT1/ftx/m/n
+/14.4 + 1) = \OT1/ftx/m/sl/14.4+ w[]\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ t\OT
+1/ftx/m/n/14.4 ) + \OML/cmm/m/it/14.4 ^^W^^N\OT1/ftx/m/sl/14.4+ x[] | \OT1/ftx/
+m/n/14.4 (11)
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 299--300
+[]\T2A/ftm/m/n/14.4 Веса бу^^?дут уве^^?ли^^?чи^^?ны, ес^^?ли $\OT1/ftx/m/sl/14
+.4+ Y[] \OML/cmm/m/it/14.4 > \OT1/ftx/m/sl/14.4+ I$\T2A/ftm/m/n/14.4 , тем са^^
+?мым ошиб^^?ка
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 299--300
+\T2A/ftm/m/n/14.4 умень^^?шит^^?ся. В об^^?рат^^?ном слу^^?чае они бу^^?дут уме
+нь^^?ше^^?ны, и Y
+ []
+
+[30] [31
+
+] [32
 
 ]
-Overfull \hbox (340.37349pt too wide) in paragraph at lines 297--298
+Overfull \hbox (340.37349pt too wide) in paragraph at lines 325--326
 []\T2A/ftm/m/n/14.4 http://www.shestopaloff.ca/kyriako/Russian/Artificial_Intel
 ligence/Some_publications/Korotky_Neuron_network_Lectures.pdf 
  []
 
-[32
+[33
 
 
-] [33
+] [34
 
 ] (./pz.aux)
 
@@ -2403,10 +2460,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10494 strings out of 493013
- 149070 string characters out of 6135682
- 258004 words of memory out of 5000000
- 13640 multiletter control sequences out of 15000+600000
+ 10500 strings out of 493013
+ 149171 string characters out of 6135682
+ 258014 words of memory out of 5000000
+ 13645 multiletter control sequences out of 15000+600000
  25652 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,47p,2293b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2419,10 +2476,10 @@ cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
 hare/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/share/texmf/fon
 ts/type1/public/pscyr/textb19.pfb></usr/local/share/texmf/fonts/type1/public/ps
 cyr/textb19.pfb></usr/local/share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on pz.pdf (34 pages, 661738 bytes).
+Output written on pz.pdf (35 pages, 684585 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 171 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
