@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  4 JUN 2017 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  4 JUN 2017 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**tz.tex
-(./tz.tex
+**tz_staroe.tex
+(./tz_staroe.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (./G2-105.cls
@@ -1039,8 +1039,9 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
-) (./tz.aux)
-\openout1 = `tz.aux'.
+)
+(./tz_staroe.aux)
+\openout1 = `tz_staroe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -1169,31 +1170,31 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 8--9
-\T2A/ftm/m/n/14.4 па^^?мя^^?тиї, вы^^?пол^^?нен^^?ную сту^^?ден^^?том груп^^?пы
- ИВТ-461, Мель^^?ни^^?ко^^?вым
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\T2A/ftm/m/n/14.4 В дан^^?ной ра^^?бо^^?те бы^^?ли раз^^?ра^^?бо^^?та^^?ны тр
+е^^?бо^^?ва^^?ния к
  []
 
 (./TitleCommon.tex)
 
 Package Fancyhdr Warning: \fancyhf's `E' option without twoside option is usele
-ss on input line 11.
+ss on input line 12.
 
 
 Package Fancyhdr Warning: \fancyhf's `E' option without twoside option is usele
-ss on input line 11.
+ss on input line 12.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1201,15 +1202,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [2
 
-] (./tz.toc
-Underfull \hbox (badness 10000) in paragraph at lines 7--7
+]
+(./tz_staroe.toc
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
 [][]\T2A/ftm/m/n/14.4 Организация, утвер^^?див^^?шая этот до^^?ку^^?мент, и да^
 ^?та его 
  []
 
 )
 \tf@toc=\write3
-\openout3 = `tz.toc'.
+\openout3 = `tz_staroe.toc'.
 
 
 
@@ -1219,338 +1221,239 @@ Package Fancyhdr Warning: \headheight is too small (25.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3]
-Underfull \hbox (badness 1661) in paragraph at lines 20--22
-[]\T2A/ftm/m/n/14.4 Разработке под^^?ле^^?жит про^^?грамм^^?ный про^^?дукт, пре
-д^^?став^^?ля^^?ю^^?щий
- []
-
-
-Underfull \hbox (badness 5105) in paragraph at lines 29--30
+Underfull \hbox (badness 5105) in paragraph at lines 26--27
 []\T2A/ftm/m/n/14.4 Разработка ве^^?дет^^?ся на ос^^?но^^?ва^^?нии за^^?да^^?ни
 я на вы^^?пол^^?не^^?ние
  []
 
 
-Underfull \hbox (badness 4686) in paragraph at lines 29--30
+Underfull \hbox (badness 4686) in paragraph at lines 26--27
 \T2A/ftm/m/n/14.4 вы^^?пуск^^?ной ква^^?ли^^?фи^^?ка^^?ци^^?он^^?ной ра^^?бо^^?
 ты ба^^?ка^^?лав^^?ра по на^^?прав^^?ле^^?нию
  []
 
-[4]
-Underfull \hbox (badness 3872) in paragraph at lines 31--31
+
+Underfull \hbox (badness 7326) in paragraph at lines 26--27
+\T2A/ftm/m/n/14.4 ѕПро^^?грамм^^?ная ин^^?же^^?не^^?рияї. Утвер^^?жде^^?но при^
+^?ка^^?зом от 17.10.2014
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 27--27
 []\T2A/ftm/m/n/14.4 Организация, утвер^^?див^^?шая этот до^^?ку^^?мент, и да^^?
 та его
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-[]\T2A/ftm/m/n/14.4 Задание на вы^^?пол^^?не^^?ние вы^^?пуск^^?ной ква^^?ли^^?ф
-и^^?ка^^?ци^^?он^^?ной
+[4]
+Underfull \hbox (badness 4072) in paragraph at lines 38--41
+[]\T2A/ftm/m/n/14.4 Эксплуатационным на^^?зна^^?че^^?ни^^?ем мо^^?ду^^?ля яв^^?
+ля^^?ет^^?ся вы^^?яв^^?ле^^?ние
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-\T2A/ftm/m/n/14.4 ра^^?бо^^?ты ба^^?ка^^?лав^^?ра вы^^?да^^?но к.т.н., до^^?цен
-^^?том ка^^?фед^^?ры ѕСи^^?сте^^?мы
+Underfull \hbox (badness 2495) in paragraph at lines 45--47
+[]\T2A/ftm/m/n/14.4 Модуль дол^^?жен поз^^?во^^?лять уда^^?лять, до^^?бав^^?лят
+ь пе^^?ре^^?чис^^?ле^^?ния.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-\T2A/ftm/m/n/14.4 пря^^?мой про^^?ход свер^^?точ^^?ной ней^^?рон^^?ной се^^?ти 
-на устрой^^?стве с
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\T2A/ftm/m/n/14.4 Модуль дол^^?жен поз^^?во^^?лять уда^^?лять, до^^?бав^^?лят
+ь эле^^?мен^^?ты
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-[]\T2A/ftm/m/n/14.4 Приложение пред^^?на^^?зна^^?че^^?но для ис^^?сле^^?до^^?ва
-^^?ния вы^^?чис^^?ле^^?ний
- []
-
-
-Underfull \hbox (badness 5260) in paragraph at lines 41--42
-\T2A/ftm/m/n/14.4 свер^^?точ^^?ных ней^^?ро^^?ных се^^?тей на ARM-^^?архи^^?тек
-^^?ту^^?ре, вы^^?пол^^?ня^^?ю^^?щих
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]\T2A/ftm/m/n/14.4 Модуль дол^^?жен поз^^?во^^?лять из^^?ме^^?нять гра^^?ни^^?
+цы эле^^?мен^^?тов
  []
 
 [5]
-Underfull \hbox (badness 3118) in paragraph at lines 45--46
-[]\T2A/ftm/m/n/14.4 Приложение раз^^?де^^?ле^^?но на кли^^?ент^^?скую и сер^^?в
-ер^^?ную ча^^?сти.
+Underfull \hbox (badness 2837) in paragraph at lines 50--51
+[]\T2A/ftm/m/n/14.4 Модуль дол^^?жен на ос^^?но^^?ве по^^?лу^^?чен^^?ных по^^?р
+яд^^?ков, из^^?ме^^?нять
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 45--46
-\T2A/ftm/m/n/14.4 Сер^^?вер^^?ная часть за^^?пус^^?ка^^?ет^^?ся на ARM-^^?устро
-й^^?стве и вы^^?пол^^?ня^^?ет
+Underfull \hbox (badness 1721) in paragraph at lines 51--52
+[]\T2A/ftm/m/n/14.4 Модуль дол^^?жен из по^^?лу^^?чен^^?ных ко^^?пий эта^^?лон^
+^?но^^?го от^^?ве^^?та, с
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 45--46
-\T2A/ftm/m/n/14.4 де^^?тек^^?ти^^?ро^^?ва^^?ние объ^^?ек^^?тов на изоб^^?ра^^?ж
-е^^?нии, ис^^?поль^^?зуя свер^^?точ^^?ные
+Underfull \hbox (badness 2837) in paragraph at lines 56--58
+[]\T2A/ftm/m/n/14.4 Работа CorrectWriting с внед^^?рен^^?ным мо^^?ду^^?лем долж
+^^?на быть
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 45--46
-\T2A/ftm/m/n/14.4 ней^^?рон^^?ные се^^?ти, и функ^^?ции для ра^^?бо^^?ты с кли^
-^?ен^^?том. Кли^^?ет^^?ская
+Underfull \hbox (badness 1189) in paragraph at lines 56--58
+\T2A/ftm/m/n/14.4 эф^^?фек^^?тив^^?нее, его ра^^?бо^^?ты с ис^^?поль^^?зо^^?ва^
+^?ни^^?ем пол^^?но^^?го пе^^?ре^^?бо^^?ра всех
  []
 
 
-Underfull \hbox (badness 6316) in paragraph at lines 45--46
-\T2A/ftm/m/n/14.4 часть за^^?пус^^?ка^^?ет^^?ся на пер^^?со^^?наль^^?ном ком^^?
-пью^^?те^^?ре поль^^?зо^^?ва^^?те^^?ля и
- []
-
-
-Underfull \hbox (badness 2990) in paragraph at lines 45--46
-\T2A/ftm/m/n/14.4 предо^^?став^^?ля^^?ет воз^^?мож^^?ность под^^?клю^^?чать^^?с
-я к сер^^?вер^^?ной про^^?грам^^?ме,
- []
-
-
-Underfull \hbox (badness 5802) in paragraph at lines 45--46
-\T2A/ftm/m/n/14.4 вы^^?би^^?рать изоб^^?ра^^?же^^?ние для де^^?тек^^?ти^^?ро^^?
-ва^^?ния на нем объ^^?ек^^?тов и
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 47--48
-[]\T2A/ftm/m/n/14.4 Серверная про^^?грам^^?ма долж^^?на вы^^?пол^^?нять сле^^?д
-у^^?ю^^?щие груп^^?пы
+Underfull \hbox (badness 1546) in paragraph at lines 56--58
+\T2A/ftm/m/n/14.4 ва^^?ри^^?ан^^?тов по^^?ряд^^?ков для каж^^?до^^?го пе^^?ре^^
+?чис^^?ле^^?ния. То есть поз^^?во^^?лять
  []
 
 [6]
-Underfull \hbox (badness 3492) in paragraph at lines 64--65
-[]\T2A/ftm/m/n/14.4 Парсинг и се^^?ри^^?а^^?ли^^?за^^?ция ме^^?ток де^^?тек^^?т
-и^^?ру^^?е^^?мых объ^^?ек^^?тов.
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 65--66
-[]\T2A/ftm/m/n/14.4 Парсинг и се^^?ри^^?а^^?ли^^?за^^?ция фай^^?ла кон^^?фи^^?г
-у^^?ра^^?ции свер^^?точ^^?ной
- []
-
-
-Underfull \hbox (badness 5105) in paragraph at lines 69--70
-[]\T2A/ftm/m/n/14.4 Для де^^?тек^^?ти^^?ро^^?ва^^?ния объ^^?ек^^?тов на изоб^^?
-ра^^?же^^?нии необ^^?хо^^?ди^^?мо
- []
-
-[7]
-Underfull \hbox (badness 3396) in paragraph at lines 94--95
-[]\T2A/ftm/m/n/14.4 Для ра^^?бо^^?ты с сер^^?ве^^?ром необ^^?хо^^?ди^^?мо ре^^?
-а^^?ли^^?зо^^?вать сле^^?ду^^?щие
- []
-
-
-Underfull \hbox (badness 7203) in paragraph at lines 118--119
-\T2A/ftm/m/n/14.4 но с рас^^?ши^^?ре^^?ни^^?ем png или jpg, от^^?кры^^?вать^^?с
-я не дол^^?жен. В
- []
-
-
-Underfull \hbox (badness 6332) in paragraph at lines 118--119
-\T2A/ftm/m/n/14.4 ин^^?фор^^?ма^^?цию о прой^^?ден^^?ных эта^^?пах вы^^?чис^^?л
-е^^?ний. В при^^?ло^^?же^^?нии
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 118--119
-\T2A/ftm/m/n/14.4 ВСТА^^?ВИТЬ опи^^?сан про^^?цесс об^^?ме^^?на дан^^?ны^^?ми м
-еж^^?ду кли^^?ент^^?ской и
- []
-
-[8]
-Underfull \hbox (badness 1264) in paragraph at lines 119--120
-\T2A/ftm/m/n/14.4 со^^?об^^?ще^^?ние от кли^^?ен^^?та. В таб^^?ли^^?це  1[] при
-^^?ве^^?де^^?ны вход^^?ные дан^^?ные
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 132--133
-\T2A/ftm/m/n/14.4 пря^^?мо^^?уголь^^?ник. По^^?дроб^^?ная ин^^?фор^^?ма^^?ция о
-б ви^^?зу^^?а^^?ли^^?за^^?ции вы^^?ход^^?но^^?го
- []
-
-
-Underfull \hbox (badness 5302) in paragraph at lines 133--134
-\T2A/ftm/m/n/14.4 для вы^^?во^^?да ин^^?фор^^?ма^^?ции о ос^^?нов^^?ных эта^^?п
-ах ра^^?бо^^?ты сер^^?вер^^?ной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
-\T2A/ftm/m/n/14.4 ча^^?сти при^^?ло^^?же^^?ния. В при^^?ло^^?же^^?нии ВСТА^^?ВИ
-ТЬ на диа^^?грам^^?ме
- []
-
-[9]
-Underfull \hbox (badness 3977) in paragraph at lines 135--136
-\T2A/ftm/m/n/14.4 по^^?ток вво^^?да/вывода ос^^?нов^^?ную ин^^?фор^^?ма^^?цию о
- эта^^?пах ра^^?бо^^?ты. В
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-[]\T2A/ftm/m/n/14.4 Надежное функ^^?ци^^?о^^?ни^^?ро^^?ва^^?ние при^^?ло^^?же^^
-?ния долж^^?но
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-\T2A/ftm/m/n/14.4 быть обес^^?пе^^?че^^?но вы^^?пол^^?не^^?ни^^?ем За^^?каз^^?ч
-и^^?ком со^^?во^^?куп^^?но^^?сти
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-\T2A/ftm/m/n/14.4 тех^^?ни^^?че^^?ских средств, фа^^?таль^^?ным сбо^^?ем (кра^^
-?хом) опе^^?ра^^?ци^^?он^^?ной
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 156--157
-\T2A/ftm/m/n/14.4 неис^^?прав^^?но^^?стей тех^^?ни^^?че^^?ских средств и пе^^?р
-е^^?уста^^?нов^^?ки про^^?грамм^^?ных
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-[]\T2A/ftm/m/n/14.4 Эксплуатация кли^^?ент^^?ской ча^^?сти при^^?ло^^?же^^?ние 
-ко^^?неч^^?ным
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-\T2A/ftm/m/n/14.4 поль^^?зо^^?ва^^?те^^?лем под^^?ра^^?зу^^?ме^^?ва^^?ет у него
- на^^?ли^^?чие Linux-^^?подоб^^?ной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 []\T2A/ftm/m/n/14.4 Ниже при^^?ве^^?де^^?ны тре^^?бо^^?ва^^?ния к тех^^?ни^^?че
 ^^?ским сред^^?ствам
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 165--167
-[]\T2A/ftm/m/n/14.4 устройства вза^^?и^^?мо^^?дей^^?ствия с поль^^?зо^^?ва^^?те
-^^?лем ^^V кла^^?ви^^?а^^?ту^^?ра,
- []
-
-[11]
-Underfull \hbox (badness 5302) in paragraph at lines 176--177
-[]\T2A/ftm/m/n/14.4 Устройство долж^^?но об^^?ла^^?дать Linux-^^?подоб^^?ной оп
-е^^?ра^^?ци^^?он^^?ной
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+[]\T2A/ftm/m/n/14.4 Данные тре^^?бо^^?ва^^?ния опре^^?де^^?ле^^?ны си^^?сте^^?м
+ой ди^^?стан^^?ци^^?он^^?но^^?го
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
-[]\T2A/ftm/m/n/14.4 Ниже при^^?ве^^?де^^?ны тре^^?бо^^?ва^^?ния к тех^^?ни^^?че
-^^?ским сред^^?ствам
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--185
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 []\T2A/ftm/m/n/14.4 Требования к ин^^?фор^^?ма^^?ци^^?он^^?ной и про^^?грамм^^?
 ной
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 190--191
-\T2A/ftm/m/n/14.4 часть не долж^^?на со^^?дер^^?жать внеш^^?них за^^?ви^^?си^^?
-мо^^?стей. Раз^^?ре^^?ша^^?ет^^?ся
+Underfull \hbox (badness 10000) in paragraph at lines 89--92
+[]\T2A/ftm/m/n/14.4 Модуль дол^^?жен быть ин^^?те^^?гри^^?ро^^?ван в тип во^^?п
+ро^^?са
  []
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 203--205
-[]\T2A/ftm/m/n/14.4 Изучение ис^^?поль^^?зу^^?е^^?мо^^?го фрейм^^?вор^^?ка ней^
-^?рон^^?ных се^^?тей
- []
-
-
-Underfull \hbox (badness 6204) in paragraph at lines 213--215
-[]\T2A/ftm/m/n/14.4 На ста^^?дии изу^^?че^^?ния фрейм^^?вор^^?ка ѕdarknetї долж
-^^?ны быть
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]\T2A/ftm/m/n/14.4 Описанием пе^^?ре^^?чис^^?ле^^?ний яв^^?ля^^?ет^^?ся мас^^?
+сив опи^^?са^^?ний его
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 216--218
-[]\T2A/ftm/m/n/14.4 Изучить функ^^?ции ра^^?бо^^?ты с изоб^^?ра^^?же^^?ни^^?е^^
-?ми и спо^^?соб
+Underfull \hbox (badness 3354) in paragraph at lines 110--111
+\T2A/ftm/m/n/14.4 уда^^?лять и ре^^?дак^^?ти^^?ро^^?вать пе^^?ре^^?чис^^?ле^^?н
+ия, с по^^?мо^^?щью гра^^?фи^^?че^^?ско^^?го
  []
 
 
-Underfull \hbox (badness 3240) in paragraph at lines 218--220
-[]\T2A/ftm/m/n/14.4 Изучить функ^^?ции чте^^?ния кон^^?фи^^?гу^^?ра^^?ции ней^^
-?рон^^?ной се^^?ти,
- []
-
-[13]
-Underfull \hbox (badness 3601) in paragraph at lines 224--226
-[]\T2A/ftm/m/n/14.4 На ста^^?дии раз^^?ра^^?бот^^?ки тех^^?ни^^?че^^?ско^^?го з
-а^^?да^^?ния долж^^?ны быть
+Underfull \hbox (badness 1210) in paragraph at lines 113--114
+[]\T2A/ftm/m/n/14.4 Количество дей^^?ствий необ^^?хо^^?ди^^?мых для уда^^?ле^^?
+ния, до^^?бав^^?ле^^?ния
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
-[]\T2A/ftm/m/n/14.4 Реализация ин^^?тер^^?фей^^?са вза^^?и^^?мо^^?дей^^?ствия к
-ли^^?ент^^?ской и
+Underfull \hbox (badness 6510) in paragraph at lines 114--115
+[]\T2A/ftm/m/n/14.4 Количество дей^^?ствий необ^^?хо^^?ди^^?мых для из^^?ме^^?н
+е^^?ния гра^^?ниц
+ []
+
+[8]
+Underfull \hbox (badness 1348) in paragraph at lines 133--134
+[]\T2A/ftm/m/n/14.4 техническое за^^?да^^?ние по ГО^^?СТу 19.201-78( в бу^^?маж
+^^?ной и
+ []
+
+[9] [10] <usecase.png, id=44, 707.64375pt x 724.20563pt>
+File: usecase.png Graphic file (type png)
+ <use usecase.png>
+Package pdftex.def Info: usecase.png used on input line 157.
+(pdftex.def)             Requested size: 455.24411pt x 465.89902pt.
+
+[11
+
+ <./usecase.png>] [12
+
+]
+Underfull \hbox (badness 1158) in paragraph at lines 163--164
+[]\T2A/ftm/m/n/14.4 Интеграция с су^^?ще^^?ству^^?ю^^?щим мо^^?ду^^?лем пред^^?
+став^^?ле^^?на на двух
+ []
+
+<tzcomponent.png, id=54, 940.26282pt x 750.55406pt>
+File: tzcomponent.png Graphic file (type png)
+ <use tzcomponent.png>
+Package pdftex.def Info: tzcomponent.png used on input line 169.
+(pdftex.def)             Requested size: 455.24411pt x 363.3884pt.
+
+[13 <./tzcomponent.png>] <tzsequence.png, id=59, 742.27313pt x 762.59906pt>
+File: tzsequence.png Graphic file (type png)
+
+<use tzsequence.png>
+Package pdftex.def Info: tzsequence.png used on input line 174.
+(pdftex.def)             Requested size: 455.24411pt x 467.72147pt.
+ [14 <./tzsequence.png>]
+<gui.png, id=64, 353.06906pt x 302.63063pt>
+File: gui.png Graphic file (type png)
+ <use gui.png>
+Package pdftex.def Info: gui.png used on input line 189.
+(pdftex.def)             Requested size: 455.24411pt x 390.21503pt.
+ [15
+
+ <./gui.png>]
+Underfull \hbox (badness 3364) in paragraph at lines 203--204
+[]\T2A/ftm/m/n/14.4 включить по^^?ля "Analysis of enumerations"и "Token
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 239--241
-[]\T2A/ftm/m/n/14.4 На ста^^?дии ре^^?а^^?ли^^?за^^?ции про^^?грам^^?мы долж^^?
-ны быть вы^^?пол^^?не^^?ны
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+[]\T2A/ftm/m/n/14.4 вызвать гра^^?фи^^?че^^?ский ин^^?тер^^?фейс ре^^?дак^^?ти^
+^?ро^^?ва^^?ния
  []
 
 
-Underfull \hbox (badness 6526) in paragraph at lines 249--250
-[]\T2A/ftm/m/n/14.4 Анализ кор^^?рект^^?но^^?сти вы^^?чис^^?ле^^?ний при пря^^?
-мом про^^?хо^^?де
+Underfull \hbox (badness 1910) in paragraph at lines 208--209
+[]\T2A/ftm/m/n/14.4 удалить пе^^?ре^^?чис^^?ле^^?ние, эле^^?мен^^?том ко^^?то^^
+?ро^^?го яв^^?ля^^?ет^^?ся
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
-[]\T2A/ftm/m/n/14.4 Анализ быст^^?ро^^?дей^^?ствия про^^?грам^^?мы вы^^?чис^^?л
-е^^?ний на
+Underfull \hbox (badness 2042) in paragraph at lines 215--216
+[]\T2A/ftm/m/n/14.4 в от^^?кры^^?шем^^?ся окне в по^^?ле от^^?ве^^?та вве^^?сти
+ стро^^?ку: "bool
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 255--256
-[]\T2A/ftm/m/n/14.4 Испытания про^^?грам^^?мы и ве^^?ри^^?фи^^?ка^^?ция до^^?ку
-^^?мен^^?та^^?ции долж^^?ны
+Underfull \hbox (badness 3019) in paragraph at lines 217--218
+[]\T2A/ftm/m/n/14.4 убедиться, что ошиб^^?ки свя^^?за^^?но с пе^^?ре^^?ме^^?ще^
+^?ни^^?ем лек^^?сем
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
-[]\T2A/ftm/m/n/14.4 Программа долж^^?на со^^?от^^?вет^^?ство^^?вать всем тре^^?
-бо^^?ва^^?ни^^?ям,
+[16
+
+]
+Underfull \hbox (badness 1231) in paragraph at lines 229--230
+[]\T2A/ftm/m/n/14.4 убедиться, что вклю^^?че^^?но по^^?ле "Analysis of enumerat
+ions"и
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 261--264
-\T2A/ftm/m/n/14.4 те^^?сти^^?ро^^?ва^^?ния за^^?каз^^?чи^^?ком она удо^^?вле^^?
-тво^^?ря^^?ет всем пунк^^?там дан^^?но^^?го
+Underfull \hbox (badness 1163) in paragraph at lines 231--232
+[]\T2A/ftm/m/n/14.4 убедиться, что эта^^?лон^^?ный от^^?вет толь^^?ко один и ег
+о текст
  []
 
-[15] (./tz.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\T2A/ftm/m/n/14.4 MyNiceStructure {long Padding; char SmallPart; int FirstField
+;}
+ []
+
+[17
+
+] (./tz_staroe.aux) ) 
 Here is how much of TeX's memory you used:
- 6716 strings out of 493013
- 90047 string characters out of 6135682
- 178054 words of memory out of 5000000
- 10010 multiletter control sequences out of 15000+600000
+ 6747 strings out of 493013
+ 90564 string characters out of 6135682
+ 178113 words of memory out of 5000000
+ 10036 multiletter control sequences out of 15000+600000
  14736 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,12n,47p,892b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/lo
-cal/share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on tz.pdf (16 pages, 53369 bytes).
+ 50i,12n,47p,807b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</us
+r/local/share/texmf/fonts/type1/public/pscyr/times.pfb>
+Output written on tz_staroe.pdf (18 pages, 461535 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
