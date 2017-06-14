@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  4 JUN 2017 11:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  14 JUN 2017 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1245,11 +1245,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count152
 \c@blind@pangramcount=\count153
 \c@blind@pangrammax=\count154
-) (./pz.aux
-
-LaTeX Warning: Label `7' multiply defined.
-
-)
+) (./pz.aux)
 \openout1 = `pz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -1268,7 +1264,8 @@ LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1460,13 +1457,19 @@ ss on input line 44.
 [4
 
 
-] (./pz.toc)
+] (./pz.toc
+Underfull \hbox (badness 5260) in paragraph at lines 25--25
+[][]\T2A/ftm/m/n/14.4 Проектирование ал^^?го^^?рит^^?ма пря^^?мо^^?го про^^?хо^
+^?да свер^^?точ^^?ной 
+ []
+
+)
 \tf@toc=\write3
 \openout3 = `pz.toc'.
 
  [5
 
-]
+] [6]
 Underfull \hbox (badness 1668) in paragraph at lines 48--50
 \T2A/ftm/m/n/14.4 оди^^?ни^^?ми из са^^?мых слож^^?ных в IT-^^?инду^^?стрии. До
 л^^?гое вре^^?мя та^^?кие
@@ -1544,7 +1547,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 ^?хо^^?ди^^?мо ре^^?шить
  []
 
-[6
+[7
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 57--58
@@ -1558,7 +1561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 ию фрейм^^?вор^^?ка на
  []
 
-[7]
+[8]
 Underfull \hbox (badness 2980) in paragraph at lines 66--67
 \T2A/ftm/m/n/14.4 осо^^?бен^^?но^^?сти и функ^^?ци^^?о^^?наль^^?ные воз^^?мож^^
 ?но^^?ти фрейм^^?вор^^?ков глу^^?бо^^?ко
@@ -1594,7 +1597,7 @@ Underfull \hbox (badness 4779) in paragraph at lines 72--73
 ость ис^^?поль^^?зо^^?ва^^?ния
  []
 
-[8
+[9
 
 ]
 Underfull \hbox (badness 2486) in paragraph at lines 73--74
@@ -1656,7 +1659,7 @@ Underfull \hbox (badness 1527) in paragraph at lines 78--79
 ния огром^^?ные мас^^?си^^?вы
  []
 
-[9]
+[10]
 Underfull \hbox (badness 1331) in paragraph at lines 79--80
 \T2A/ftm/m/n/14.4 фор^^?маль^^?но^^?му опре^^?де^^?ле^^?нию слоя: он при^^?ни^^
 ?ма^^?ет на вход один или
@@ -1686,7 +1689,7 @@ Underfull \hbox (badness 1735) in paragraph at lines 85--86
 роб^^?ная до^^?ку^^?мен^^?та^^?ция для
  []
 
-[10]
+[11]
 Underfull \hbox (badness 2680) in paragraph at lines 89--90
 []\T2A/ftm/m/n/14.4 Torch7 --- это уни^^?вер^^?саль^^?ный ма^^?те^^?ма^^?ти^^?ч
 е^^?ский фрейм^^?ворк и
@@ -1734,7 +1737,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 97--98
 API-^^?интер^^?фейс со^^?хра^^?ня^^?ет
  []
 
-[11]
+[12]
 Underfull \hbox (badness 2644) in paragraph at lines 99--100
 \T2A/ftm/m/n/14.4 сред^^?ства^^?ми. Он ре^^?а^^?ли^^?зо^^?ван как биб^^?лио^^?т
 е^^?ка, ко^^?то^^?рая на^^?пи^^?са^^?на на
@@ -1794,7 +1797,7 @@ Underfull \hbox (badness 2334) in paragraph at lines 100--101
 с^^?си^^?вов, таб^^?лиц сим^^?во^^?лов,
  []
 
-[12]
+[13]
 Underfull \hbox (badness 1248) in paragraph at lines 101--102
 \T2A/ftm/m/n/14.4 дру^^?гих при^^?чин, ко^^?то^^?рые, в ви^^?ду спе^^?ци^^?фи^^
 ?ки фрейм^^?вор^^?ка, яв^^?ля^^?ют^^?ся
@@ -1842,7 +1845,7 @@ Underfull \hbox (badness 6493) in paragraph at lines 103--104
 ?же^^?ство клас^^?си^^?че^^?ских
  []
 
-[13] <torch_plots.png, id=54, 821.31844pt x 199.49532pt>
+[14] <torch_plots.png, id=57, 821.31844pt x 199.49532pt>
 File: torch_plots.png Graphic file (type png)
  <use torch_plots.png>
 Package pdftex.def Info: torch_plots.png used on input line 110.
@@ -1865,8 +1868,8 @@ Underfull \hbox (badness 2961) in paragraph at lines 115--116
 ^?фа поз^^?во^^?ля^^?ет из^^?бе^^?жать
  []
 
-[14 <./torch_plots.png (PNG copy)>]
-<nn_create.png, id=58, 242.40562pt x 82.80937pt>
+[15 <./torch_plots.png (PNG copy)>]
+<nn_create.png, id=61, 242.40562pt x 82.80937pt>
 File: nn_create.png Graphic file (type png)
  <use nn_create.png>
 Package pdftex.def Info: nn_create.png used on input line 118.
@@ -1877,7 +1880,7 @@ Underfull \hbox (badness 1442) in paragraph at lines 116--122
 т со^^?бой по^^?сле^^?до^^?ва^^?тель^^?ные
  []
 
-<nn_forward.png, id=59, 488.57532pt x 62.48344pt>
+<nn_forward.png, id=62, 488.57532pt x 62.48344pt>
 File: nn_forward.png Graphic file (type png)
  <use nn_forward.png>
 Package pdftex.def Info: nn_forward.png used on input line 124.
@@ -1929,7 +1932,7 @@ Underfull \hbox (badness 3323) in paragraph at lines 132--133
 и^^?за^^?ции Torch7. Этот спи^^?сок
  []
 
-[15 <./nn_create.png (PNG copy)> <./nn_forward.png>]
+[16 <./nn_create.png (PNG copy)> <./nn_forward.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \T2A/ftm/m/n/14.4 ко^^?то^^?рый не име^^?ет обя^^?за^^?тель^^?ных за^^?ви^^?си^
 ^?мо^^?стей. Что поз^^?во^^?ля^^?ет
@@ -1965,7 +1968,7 @@ Underfull \hbox (badness 2941) in paragraph at lines 143--144
 ро^^?ек^^?ти^^?ро^^?ва^^?на спе^^?ци^^?аль^^?но
  []
 
-[16]
+[17]
 Underfull \hbox (badness 4429) in paragraph at lines 144--145
 \T2A/ftm/m/n/14.4 па^^?мя^^?ти. Darnket име^^?ет две эф^^?фек^^?тив^^?ные ре^^?
 а^^?ли^^?за^^?ции свер^^?точ^^?ных
@@ -2001,7 +2004,7 @@ Underfull \hbox (badness 2753) in paragraph at lines 146--147
 со^^?бой объ^^?ект для
  []
 
-[17] <network_cfg.png, id=71, 240.9pt x 128.1588pt>
+[18] <network_cfg.png, id=75, 240.9pt x 128.1588pt>
 File: network_cfg.png Graphic file (type png)
  <use network_cfg.png>
 Package pdftex.def Info: network_cfg.png used on input line 149.
@@ -2036,7 +2039,7 @@ Underfull \hbox (badness 3838) in paragraph at lines 155--156
 ^?щий дан^^?ные функ^^?ции
  []
 
-[18 <./network_cfg.png>]
+[19 <./network_cfg.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 161--162
 []\T2A/ftm/m/n/14.4 Рассмотринные вы^^?ше фрейм^^?вор^^?ки, ис^^?поль^^?зуя раз
 ^^?лич^^?ные
@@ -2048,7 +2051,7 @@ Underfull \hbox (badness 1577) in paragraph at lines 161--162
 ия ядер в Darknet, поз^^?во^^?ля^^?ет
  []
 
-<binary_conv.png, id=76, 870.25125pt x 283.81032pt>
+<binary_conv.png, id=79, 870.25125pt x 283.81032pt>
 File: binary_conv.png Graphic file (type png)
  <use binary_conv.png>
 Package pdftex.def Info: binary_conv.png used on input line 164.
@@ -2082,8 +2085,8 @@ Underfull \hbox (badness 6592) in paragraph at lines 168--169
 ^^?ни^^?ем мак^^?си^^?маль^^?но уско^^?рить
  []
 
-[19 <./binary_conv.png (PNG copy)>] [20]
-<neuron.png, id=83, 459.21562pt x 284.56313pt>
+[20 <./binary_conv.png (PNG copy)>] [21]
+<neuron.png, id=86, 459.21562pt x 284.56313pt>
 File: neuron.png Graphic file (type png)
  <use neuron.png>
 Package pdftex.def Info: neuron.png used on input line 176.
@@ -2100,7 +2103,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--181
 ^^?ной се^^?ти
  []
 
-[21
+[22
 
  <./neuron.png (PNG copy)>]
 Overfull \hbox (3.77655pt too wide) detected at line 184
@@ -2114,7 +2117,7 @@ Underfull \hbox (badness 3449) in paragraph at lines 189--190
 ^?но^^?сти. Это
  []
 
-<activation_func.png, id=88, 435.87843pt x 361.35pt>
+<activation_func.png, id=91, 435.87843pt x 361.35pt>
 File: activation_func.png Graphic file (type png)
  <use activation_func.png>
 Package pdftex.def Info: activation_func.png used on input line 192.
@@ -2137,7 +2140,7 @@ Overfull \hbox (12.94058pt too wide) detected at line 199
 .4 ) = [] | (2)
  []
 
-[22 <./activation_func.png (PNG copy)>]
+[23 <./activation_func.png (PNG copy)>]
 Overfull \hbox (48.17947pt too wide) detected at line 203
  | \OT1/ftx/m/sl/14.4+ f[]\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ x\OT1/ftx/m/n/
 14.4 ) = \OML/cmm/m/it/14.4 \OT1/ftx/m/sl/14.4+ f\OT1/ftx/m/n/14.4 (\OT1/ftx/m
@@ -2157,7 +2160,7 @@ Underfull \hbox (badness 5302) in paragraph at lines 204--205
 ^?ству^^?ют по^^?ло^^?го^^?му на^^?кло^^?ну
  []
 
-<perceptron.png, id=94, 361.35pt x 261.97874pt>
+<perceptron.png, id=97, 361.35pt x 261.97874pt>
 File: perceptron.png Graphic file (type png)
  <use perceptron.png>
 Package pdftex.def Info: perceptron.png used on input line 208.
@@ -2186,7 +2189,7 @@ Underfull \hbox (badness 1478) in paragraph at lines 216--217
 ?ста^^?вить мат^^?ри^^?цу W, в
  []
 
-[23]
+[24]
 Underfull \hbox (badness 1173) in paragraph at lines 219--221
 \T2A/ftm/m/n/14.4 --- ак^^?ти^^?ва^^?ци^^?он^^?ная функ^^?ция, вы^^?пол^^?ня^^?
 ю^^?ща^^?я^^?ся над каж^^?дым эле^^?мен^^?том
@@ -2258,7 +2261,7 @@ Underfull \hbox (badness 1112) in paragraph at lines 222--223
 ?труд^^?ни^^?тель^^?но. В боль^^?шин^^?стве
  []
 
-[24 <./perceptron.png (PNG copy)>]
+[25 <./perceptron.png (PNG copy)>]
 Underfull \hbox (badness 1496) in paragraph at lines 223--224
 []\T2A/ftm/m/n/14.4 Очевидно, что функ^^?ци^^?о^^?ни^^?ро^^?ва^^?ние ней^^?рон^
 ^?ной се^^?ти на^^?пря^^?мую
@@ -2276,7 +2279,7 @@ Underfull \hbox (badness 1418) in paragraph at lines 227--228
 т быть непре^^?рыв^^?ным, это
  []
 
-[25]
+[26]
 Underfull \hbox (badness 3364) in paragraph at lines 228--229
 []\T2A/ftm/m/n/14.4 Еще од^^?на клас^^?си^^?фи^^?ка^^?ция раз^^?де^^?ля^^?ет НС
  на син^^?хрон^^?ные и
@@ -2294,7 +2297,7 @@ Underfull \hbox (badness 2165) in paragraph at lines 228--229
 ^?сле^^?до^^?ва^^?тель^^?ным
  []
 
-<perceptron2.png, id=108, 607.51968pt x 405.01312pt>
+<perceptron2.png, id=111, 607.51968pt x 405.01312pt>
 File: perceptron2.png Graphic file (type png)
  <use perceptron2.png>
 Package pdftex.def Info: perceptron2.png used on input line 231.
@@ -2323,7 +2326,7 @@ Overfull \hbox (59.31067pt too wide) detected at line 242
  \OT1/ftx/m/n/14.4 (2)
  []
 
-[26 <./perceptron2.png (PNG copy)>]
+[27 <./perceptron2.png (PNG copy)>]
 Underfull \hbox (badness 1226) in paragraph at lines 243--244
 \T2A/ftm/m/n/14.4 при на^^?де^^?ле^^?нии ней^^?ро^^?на по^^?доб^^?ной свя^^?зью
  и ка^^?кие огра^^?ни^^?че^^?ния на
@@ -2347,7 +2350,7 @@ Overfull \hbox (18.3673pt too wide) detected at line 251
 /cmsy/m/n/14.4 ^^@ \OT1/ftx/m/sl/14.4+ T | \OT1/ftx/m/n/14.4 (11)
  []
 
-[27] <single_neuron.png, id=115, 664.73344pt x 335.00156pt>
+[28] <single_neuron.png, id=118, 664.73344pt x 335.00156pt>
 File: single_neuron.png Graphic file (type png)
 
 <use single_neuron.png>
@@ -2391,13 +2394,13 @@ Overfull \hbox (15.27765pt too wide) detected at line 276
 T1/ftx/m/n/14.4 = \OT1/ftx/m/sl/14.4+ T | \OT1/ftx/m/n/14.4 (11)
  []
 
-<line_class.png, id=116, 436.63126pt x 398.99063pt>
+<line_class.png, id=119, 436.63126pt x 398.99063pt>
 File: line_class.png Graphic file (type png)
  <use line_class.png>
 Package pdftex.def Info: line_class.png used on input line 279.
 (pdftex.def)             Requested size: 273.14923pt x 249.59987pt.
 
-[28 <./single_neuron.png (PNG copy)>]
+[29 <./single_neuron.png (PNG copy)>]
 Underfull \hbox (badness 1072) in paragraph at lines 283--284
 \T2A/ftm/m/n/14.4 ис^^?клю^^?ча^^?ю^^?ще^^?го ИЛИ. Невоз^^?мож^^?ность ре^^?а^^
 ?ли^^?зо^^?вать дан^^?ную функ^^?цию,
@@ -2415,7 +2418,7 @@ Underfull \hbox (badness 3536) in paragraph at lines 287--288
 е ко^^?эф^^?фи^^?ци^^?э^^?ны слу^^?чай^^?ны^^?ми
  []
 
-[29 <./line_class.png (PNG copy)>]
+[30 <./line_class.png (PNG copy)>]
 Overfull \hbox (60.42455pt too wide) detected at line 297
  | \OT1/ftx/m/sl/14.4+ w[]\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ t \OT1/ftx/m/n
 /14.4 + 1) = \OT1/ftx/m/sl/14.4+ w[]\OT1/ftx/m/n/14.4 (\OT1/ftx/m/sl/14.4+ t\OT
@@ -2436,34 +2439,382 @@ Underfull \hbox (badness 6608) in paragraph at lines 299--300
 нь^^?ше^^?ны, и Y
  []
 
-[30] [31
 
-] [32
+Underfull \hbox (badness 3646) in paragraph at lines 305--306
+\T2A/ftm/m/n/14.4 со^^?бой изоб^^?ра^^?же^^?ния. Это пред^^?по^^?ло^^?же^^?ние 
+вно^^?сит осо^^?бые свой^^?ства
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 305--306
+\T2A/ftm/m/n/14.4 в ар^^?хи^^?тек^^?ту^^?ру се^^?ти. Функ^^?ция пря^^?мо^^?го п
+ро^^?хо^^?да ста^^?но^^?вит^^?ся бо^^?лее
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+[]\T2A/ftm/m/n/14.4 Проблема ре^^?гу^^?ляр^^?ных ней^^?рон^^?ных се^^?тей за^^?
+клю^^?ча^^?ет^^?ся в
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 306--307
+\T2A/ftm/m/n/14.4 име^^?ют раз^^?мер 32x32x3 (3 цве^^?то^^?вых ка^^?на^^?ла), п
+о^^?это^^?му каж^^?дый
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 306--307
+\T2A/ftm/m/n/14.4 * 3 = 3072 ве^^?са. Дан^^?ное ко^^?ли^^?че^^?ство ве^^?сов яв
+^^?ля^^?ет^^?ся при^^?ем^^?ле^^?мым
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 306--307
+\T2A/ftm/m/n/14.4 ве^^?сов. По^^?это^^?му посно^^?связ^^?ная струк^^?ту^^?ра се
+^^?ти ис^^?поль^^?зу^^?ет огром^^?ные
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 306--307
+\T2A/ftm/m/n/14.4 вы^^?чис^^?ли^^?тель^^?ные ре^^?сур^^?сы и ре^^?сур^^?сы па^^
+?мя^^?ти. Боль^^?шое ко^^?ли^^?че^^?ство
+ []
+
+<convnn.png, id=131, 571.13374pt x 202.7575pt>
+File: convnn.png Graphic file (type png)
+ <use convnn.png>
+Package pdftex.def Info: convnn.png used on input line 309.
+(pdftex.def)             Requested size: 455.24411pt x 161.6153pt.
+
+Underfull \hbox (badness 1248) in paragraph at lines 307--313
+\T2A/ftm/m/n/14.4 глу^^?би^^?на (в CIFAR-10 ши^^?ри^^?на --- 32, вы^^?со^^?та -
+-- 32, глу^^?би^^?на --- 3).
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 313--314
+[]\T2A/ftm/m/n/14.4 Для по^^?стро^^?е^^?ние ар^^?хи^^?тек^^?ту^^?ры свер^^?точ^
+^?ной ней^^?рон^^?ной се^^?ти
+ []
+
+[32 <./convnn.png (PNG copy)>]
+Underfull \hbox (badness 5036) in paragraph at lines 314--315
+[]\T2A/ftm/m/n/14.4 Для ре^^?ше^^?ние за^^?да^^?чи клас^^?си^^?фи^^?ка^^?ции на
+ раз^^?ме^^?чен^^?ной ба^^?зе
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 316--317
+[]\T2A/ftm/m/n/14.4 Вход [32x32x3]. Со^^?дер^^?жит ис^^?ход^^?ные зна^^?че^^?ни
+я пик^^?се^^?лей
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 317--318
+\T2A/ftm/m/n/14.4 име^^?ет на вы^^?хо^^?де зна^^?че^^?ние, вы^^?че^^?с^^?лен^^?
+ное для неболь^^?шой об^^?ла^^?сти
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 318--319
+\T2A/ftm/m/n/14.4 слое при^^?ме^^?ня^^?ет^^?ся по^^?ро^^?го^^?вая функ^^?ция ак
+^^?ти^^?ва^^?ции. В на^^?шем слу^^?ча^^?ет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+[]\T2A/ftm/m/n/14.4 Объдиняющий слой [16x16x12]. Вы^^?пол^^?ня^^?ет опе^^?ра^^?
+цию
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 320--321
+[]\T2A/ftm/m/n/14.4 Полносвязный слой [1x1x10]. Вы^^?чис^^?ля^^?ет оцен^^?ки кл
+ас^^?сов.
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 322--323
+\T2A/ftm/m/n/14.4 яв^^?ля^^?ют^^?ся функ^^?ци^^?ей не толь^^?ко ак^^?ти^^?ва^^?
+ции вход^^?но^^?го сиг^^?на^^?ла, но и
+ []
+
+[33]
+Underfull \hbox (badness 1968) in paragraph at lines 327--328
+[]\T2A/ftm/m/n/14.4 Каждый слой при^^?ни^^?ва^^?ет 3-x мер^^?ный мас^^?сив сиг^
+^?на^^?лов и
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 327--328
+\T2A/ftm/m/n/14.4 пре^^?об^^?ра^^?зу^^?ет его в вы^^?ход^^?ной 3-х мер^^?ный ма
+с^^?сив сиг^^?на^^?лов че^^?рез
+ []
+
+<convnet.png, id=138, 1259.70625pt x 603.25375pt>
+File: convnet.png Graphic file (type png)
+ <use convnet.png>
+Package pdftex.def Info: convnet.png used on input line 332.
+(pdftex.def)             Requested size: 455.24411pt x 218.00882pt.
+
+Underfull \hbox (badness 5203) in paragraph at lines 336--337
+[]\T2A/ftm/m/n/14.4 Сверточный слой яв^^?ля^^?ет^^?ся ос^^?нов^^?ным сто^^?и^^?
+тель^^?ным бло^^?ком
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 336--337
+\T2A/ftm/m/n/14.4 свер^^?точ^^?ной ней^^?рон^^?ной се^^?ти. На него за^^?тра^^?
+чи^^?ва^^?ет^^?ся ос^^?нов^^?ная часть
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+[]\T2A/ftm/m/n/14.4 Для на^^?ча^^?ла раз^^?бе^^?рем свер^^?точ^^?ный слой без п
+ри^^?вяз^^?ки к
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 337--338
+\T2A/ftm/m/n/14.4 сверт^^?ку меж^^?ду ло^^?каль^^?ны^^?ми зна^^?че^^?ни^^?я^^?м
+и вход^^?но^^?го про^^?стран^^?ства и
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 337--338
+\T2A/ftm/m/n/14.4 ко^^?то^^?рая ге^^?не^^?ри^^?ру^^?ет вы^^?ход в каж^^?дом про
+^^?стран^^?ствен^^?ном по^^?ло^^?же^^?нии.
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 337--338
+\T2A/ftm/m/n/14.4 На про^^?тя^^?же^^?нии это^^?го про^^?цес^^?са сеть, ак^^?ти^
+^?ви^^?ру^^?ет функ^^?ции, ко^^?то^^?рые
+ []
+
+[34 <./convnet.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[]\T2A/ftm/m/n/14.4 При ра^^?бо^^?те с вы^^?со^^?ко^^?раз^^?мер^^?ны^^?ми вхо^^
+?да^^?ми, та^^?ки^^?ми как
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 338--339
+\T2A/ftm/m/n/14.4 толь^^?ко к ло^^?каль^^?ной об^^?ла^^?сти вход^^?но^^?го объ^
+^?е^^?ма. Про^^?стран^^?ствен^^?ная
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 338--339
+\T2A/ftm/m/n/14.4 про^^?тя^^?жен^^?ность этой связ^^?но^^?сти яв^^?ля^^?ет^^?ся
+ ги^^?ре^^?рпа^^?ра^^?мет^^?ром, ко^^?то^^?рые
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 338--339
+\T2A/ftm/m/n/14.4 осо^^?бен^^?но^^?сью яв^^?ля^^?ет^^?ся то, что со^^?еди^^?не^
+^?ния ней^^?ро^^?нов ло^^?каль^^?ны в
+ []
+
+<depthcol.png, id=142, 465.74pt x 327.2225pt>
+File: depthcol.png Graphic file (type png)
+ <use depthcol.png>
+Package pdftex.def Info: depthcol.png used on input line 342.
+(pdftex.def)             Requested size: 227.62206pt x 159.921pt.
+ [35 <./depthcol.png (PNG copy)>]
+Underfull \hbox (badness 1616) in paragraph at lines 354--355
+\T2A/ftm/m/n/14.4 Че^^?ло^^?ве^^?че^^?ская ви^^?зу^^?аль^^?ная си^^?сте^^?ма яв
+^^?ля^^?ет^^?ся быст^^?рой и точ^^?ной, что
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 354--355
+\T2A/ftm/m/n/14.4 поз^^?во^^?ля^^?ет нам вы^^?пол^^?нять слож^^?ные за^^?да^^?ч
+и, та^^?кие как во^^?жде^^?ние
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 354--355
+\T2A/ftm/m/n/14.4 ав^^?то^^?мо^^?би^^?ля. Быст^^?рые и точ^^?ные ал^^?го^^?рит^
+^?мы об^^?на^^?ру^^?же^^?ния объ^^?ек^^?тов
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 354--355
+\T2A/ftm/m/n/14.4 поз^^?во^^?лят ком^^?пью^^?те^^?рам управ^^?лять ав^^?то^^?мо
+^^?би^^?ля^^?ми без спе^^?ци^^?аль^^?ных
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 355--356
+[]\T2A/ftm/m/n/14.4 На дан^^?ный мо^^?мент, си^^?сте^^?мы об^^?на^^?ру^^?же^^?н
+ия пе^^?ре^^?про^^?фи^^?ли^^?ру^^?ют
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 355--356
+\T2A/ftm/m/n/14.4 ме^^?стах изоб^^?ра^^?же^^?ния и в раз^^?лич^^?ных ма^^?шта^^
+?бах. Та^^?кие си^^?сте^^?мы
+ []
+
+[36]
+Underfull \hbox (badness 3281) in paragraph at lines 360--361
+\T2A/ftm/m/n/14.4 и име^^?ет GUI-^^?интер^^?фейс для об^^?ще^^?ния c поль^^?зо^
+^?ва^^?те^^?лем. В свою
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 360--361
+\T2A/ftm/m/n/14.4 оче^^?редь сер^^?вер^^?ное при^^?ло^^?же^^?ние, за^^?пус^^?ка
+^^?е^^?мое на ARM-^^?устрой^^?стве
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+\T2A/ftm/m/n/14.4 при^^?ло^^?же^^?нию. Вза^^?и^^?мо^^?дей^^?ствие меж^^?ду кли^
+^?енст^^?ким и сер^^?вер^^?ным
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 362--363
+\T2A/ftm/m/n/14.4 Оно пред^^?став^^?ля^^?ет со^^?бой GUI-^^?интер^^?фейс, в ко^
+^?то^^?ром поль^^?зо^^?ва^^?те^^?лю
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+[]\T2A/ftm/m/n/14.4 На ри^^?сун^^?ке ВСТА^^?ВИТЬ по^^?ка^^?за^^?на диа^^?грам^^
+?ма ва^^?ри^^?ан^^?тов
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 370--371
+\T2A/ftm/m/n/14.4 изоб^^?ра^^?же^^?ния на сер^^?ве^^?ре, за^^?пу^^?щен до^^?пол
+^^?ни^^?тель^^?ный по^^?ток, ко^^?то^^?рый
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+[]\T2A/ftm/m/n/14.4 На ри^^?сун^^?ке ВСТА^^?ВИТЬ изоб^^?ра^^?же^^?на диа^^?грам
+^^?ма
+ []
+
+[37
 
 ]
-Overfull \hbox (340.37349pt too wide) in paragraph at lines 326--327
+Underfull \hbox (badness 1371) in paragraph at lines 374--375
+[]\T2A/ftm/m/n/14.4 После под^^?клю^^?че^^?ния кли^^?ен^^?та, сер^^?вер^^?ное п
+ри^^?ло^^?же^^?ния ожи^^?да^^?ет
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 374--375
+\T2A/ftm/m/n/14.4 ис^^?поль^^?зу^^?ет^^?са ко^^?ман^^?да "yolo". На ри^^?сун^^?
+ке ВСТА^^?ВИТЬ изоб^^?ра^^?же^^?на
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 374--375
+\T2A/ftm/m/n/14.4 сер^^?вер^^?ным при^^?ло^^?же^^?ни^^?ем в за^^?ви^^?си^^?мо^^
+?сти от по^^?сту^^?пив^^?шей ко^^?ман^^?ды
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 376--377
+[]\T2A/ftm/m/n/14.4 Для ре^^?а^^?ли^^?за^^?ции де^^?тек^^?ти^^?ро^^?ва^^?ние об
+ъ^^?ек^^?тов на изоб^^?ра^^?же^^?нии
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 376--377
+\T2A/ftm/m/n/14.4 ис^^?поль^^?зу^^?ет^^?ся API фрейм^^?вор^^?ка darknet. В вре^
+^?мя ра^^?бо^^?ты де^^?тек^^?ции
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 376--377
+\T2A/ftm/m/n/14.4 изоб^^?ра^^?же^^?ния сер^^?вер^^?ное при^^?ло^^?же^^?ние от^^
+?сы^^?ла^^?ет кли^^?ен^^?ту ин^^?фор^^?ма^^?цию
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 376--377
+\T2A/ftm/m/n/14.4 диа^^?грам^^?ма по^^?сле^^?до^^?ва^^?тель^^?но^^?сти, на ко^^
+?то^^?рой по^^?ка^^?за^^?ны эта^^?пы ра^^?бо^^?ты
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 377--377
+[]\T2A/ftm/m/n/14.4 Особенности ре^^?а^^?ли^^?за^^?ции пря^^?мо^^?го про^^?хо^^
+?да свер^^?точ^^?ной
+ []
+
+[38]
+Underfull \hbox (badness 3168) in paragraph at lines 383--384
+\T2A/ftm/m/n/14.4 ар^^?хи^^?тек^^?ту^^?ра и зна^^?че^^?ния ги^^?пер^^?па^^?ра^^
+?мет^^?ров. В таб^^?ли^^?це ВСТА^^?ВИТЬ
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 384--385
+\T2A/ftm/m/n/14.4 при вы^^?груз^^?ке сло^^?ев, был ви^^?до^^?из^^?ме^^?не^^?на 
+функ^^?ция пря^^?мо^^?го про^^?хо^^?да
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+\T2A/ftm/m/n/14.4 по^^?сред^^?ством ком^^?пи^^?ли^^?ро^^?ва^^?ния ис^^?ход^^?ны
+х фай^^?лов фрейм^^?вор^^?ка в
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 387--388
+[]\T2A/ftm/m/n/14.4 Входными дан^^?ны^^?ми для кли^^?ент^^?ско^^?го при^^?ло^^?
+же^^?ния яв^^?ля^^?ет^^?ся
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+[]\T2A/ftm/m/n/14.4 Выходными дан^^?ны^^?ми си^^?сте^^?мы яв^^?ля^^?ет^^?ся изо
+б^^?ра^^?же^^?ние с
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 390--391
+\T2A/ftm/m/n/14.4 изоб^^?ра^^?же^^?ния. Сле^^?ва на изоб^^?ра^^?же^^?нии от^^?м
+е^^?че^^?ны пря^^?мо^^?уголь^^?ни^^?ком
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 392--393
+[]\T2A/ftm/m/n/14.4 На ри^^?сун^^?ке ВСТА^^?ВИТЬ по^^?каз^^?но вре^^?мя на де^^
+?тек^^?ти^^?ро^^?ва^^?ние
+ []
+
+[40] [41
+
+]
+Overfull \hbox (340.37349pt too wide) in paragraph at lines 405--406
 []\T2A/ftm/m/n/14.4 http://www.shestopaloff.ca/kyriako/Russian/Artificial_Intel
 ligence/Some_publications/Korotky_Neuron_network_Lectures.pdf 
  []
 
-[33
+[42
 
 
-] [34
+] [43
 
 ] (./pz.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 10500 strings out of 493013
- 149171 string characters out of 6135682
- 258018 words of memory out of 5000000
- 13645 multiletter control sequences out of 15000+600000
+ 10521 strings out of 493013
+ 149454 string characters out of 6135682
+ 258013 words of memory out of 5000000
+ 13663 multiletter control sequences out of 15000+600000
  25652 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,47p,2293b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2476,10 +2827,10 @@ cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
 hare/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/share/texmf/fon
 ts/type1/public/pscyr/textb19.pfb></usr/local/share/texmf/fonts/type1/public/ps
 cyr/textb19.pfb></usr/local/share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on pz.pdf (35 pages, 684545 bytes).
+Output written on pz.pdf (44 pages, 1299905 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 205 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 80 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
