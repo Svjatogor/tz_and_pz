@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  19 MAY 2017 02:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  15 JUN 2017 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1245,7 +1245,11 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count152
 \c@blind@pangramcount=\count153
 \c@blind@pangrammax=\count154
-) (./pz staroe.aux)
+) (./pz staroe.aux
+
+LaTeX Warning: Label `am' multiply defined.
+
+)
 \openout1 = `"pz staroe.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -1264,8 +1268,7 @@ LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1730,12 +1733,28 @@ Underfull \hbox (badness 1062) in paragraph at lines 133--134
 о вы^^?брать те
  []
 
-[14] <component.png, id=57, 940.26282pt x 750.55406pt>
-File: component.png Graphic file (type png)
- <use component.png>
-Package pdftex.def Info: component.png used on input line 141.
-(pdftex.def)             Requested size: 455.24411pt x 363.3884pt.
+[14]
 
+LaTeX Warning: File `component.png' not found on input line 141.
+
+
+! Package pdftex.def Error: File `component.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 ...graphics[width=\linewidth]{component.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for T2A+fer on input line 141.
+
+(/usr/local/share/texmf/tex/latex/pscyr/t2afer.fd
+File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
+)
 Underfull \hbox (badness 3965) in paragraph at lines 139--145
 []\T2A/ftm/m/n/14.4 —труктуру мо^^?ду^^?л€ CorrectWritting наи^^?бо^^?лее точ^^
 ?но от^^?ра^^?жа^^?ет
@@ -1743,12 +1762,23 @@ Underfull \hbox (badness 3965) in paragraph at lines 139--145
 
 [15
 
- <./component.png>] <dfd1.png, id=63, 744.7825pt x 283.0575pt>
-File: dfd1.png Graphic file (type png)
+]
 
-<use dfd1.png>
-Package pdftex.def Info: dfd1.png used on input line 148.
-(pdftex.def)             Requested size: 455.24411pt x 173.0233pt.
+LaTeX Warning: File `dfd1.png' not found on input line 148.
+
+
+! Package pdftex.def Error: File `dfd1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ...cludegraphics[width=\linewidth]{dfd1.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 1831) in paragraph at lines 152--153
 []\T2A/ftm/m/n/14.4 ƒл€ каж^^?до^^?го эта^^?па ана^^?ли^^?за от^^?ве^^?та, ре^^
@@ -1779,7 +1809,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--155
 ^^?тор опре^^?де^^?л€^^?ю^^?щий по^^?р€^^?док
  []
 
-[16 <./dfd1.png>] [17] [18]
+[16] [17] [18]
 Underfull \hbox (badness 4193) in paragraph at lines 209--210
 []\T2A/ftm/m/n/14.4 ƒл€ опре^^?де^^?ле^^?ни€ пе^^?ре^^?чис^^?ле^^?ний в слож^^?
 ных слу^^?ча^^?€х, ко^^?гда
@@ -1791,7 +1821,7 @@ Underfull \hbox (badness 6592) in paragraph at lines 209--210
 ^?ни^^?ем объ^^?€в^^?лен^^?ной ра^^?нее
  []
 
-
+[19]
 Underfull \hbox (badness 2285) in paragraph at lines 222--223
 []\T2A/ftm/m/n/14.4 ƒл€ раз^^?ра^^?бот^^?ки дан^^?но^^?го ал^^?го^^?рит^^?ма, д
 л€ на^^?ча^^?ла необ^^?хо^^?ди^^?мо
@@ -1803,7 +1833,7 @@ Underfull \hbox (badness 2334) in paragraph at lines 222--223
  пе^^?ре^^?чис^^?ле^^?ний в эта^^?лон^^?ном
  []
 
-[19]
+
 Underfull \hbox (badness 10000) in paragraph at lines 230--231
 []\T2A/ftm/m/n/14.4 проверить от^^?сут^^?ствие пе^^?ре^^?се^^?че^^?ний эле^^?ме
 н^^?тов, внут^^?ри
@@ -1833,29 +1863,51 @@ Underfull \hbox (badness 3323) in paragraph at lines 238--239
 ле^^?ду^^?ет необ^^?хо^^?ди^^?мость
  []
 
-
+[20]
 Underfull \hbox (badness 1137) in paragraph at lines 244--245
 []\T2A/ftm/m/n/14.4 јлгоритм по^^?ис^^?ка по^^?р€д^^?ка из^^?ме^^?не^^?ни€ пе^^
 ?ре^^?чис^^?ле^^?ний с уче^^?том
  []
 
-<apvp.png, id=78, 365.86688pt x 639.13782pt>
-File: apvp.png Graphic file (type png)
- <use apvp.png>
-Package pdftex.def Info: apvp.png used on input line 247.
-(pdftex.def)             Requested size: 241.86925pt x 422.52342pt.
- [20] [21 <./apvp.png>]
+
+LaTeX Warning: File `apvp.png' not found on input line 247.
+
+
+! Package pdftex.def Error: File `apvp.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 ...phics[height = 0.5\paperheight]{apvp.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[21]
 Underfull \hbox (badness 1430) in paragraph at lines 258--259
 []\T2A/ftm/m/n/14.4 если в пред^^?ло^^?же^^?нии дл€ каж^^?до^^?го пе^^?ре^^?чис
 ^^?ле^^?ни€ эле^^?мен^^?ты
  []
 
-<apvp1.png, id=86, 377.91188pt x 663.22781pt>
-File: apvp1.png Graphic file (type png)
- <use apvp1.png>
-Package pdftex.def Info: apvp1.png used on input line 262.
-(pdftex.def)             Requested size: 240.75562pt x 422.52342pt.
- [22 <./apvp1.png>]
+
+LaTeX Warning: File `apvp1.png' not found on input line 262.
+
+
+! Package pdftex.def Error: File `apvp1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.262 ...hics[height = 0.5\paperheight]{apvp1.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[22] [23]
 Underfull \hbox (badness 1803) in paragraph at lines 271--272
 \T2A/ftm/m/n/14.4 под^^?хо^^?д€^^?щих по^^?р€д^^?ков. “ак как мы срав^^?ни^^?ва
 ^^?ем два от^^?ве^^?та меж^^?ду
@@ -1873,11 +1925,23 @@ Underfull \hbox (badness 1668) in paragraph at lines 271--272
 и^^?боль^^?шую об^^?щую часть двух
  []
 
-[23] <avnpp.png, id=94, 614.295pt x 618.81187pt>
-File: avnpp.png Graphic file (type png)
- <use avnpp.png>
-Package pdftex.def Info: avnpp.png used on input line 275.
-(pdftex.def)             Requested size: 455.24606pt x 422.54277pt.
+[24]
+
+LaTeX Warning: File `avnpp.png' not found on input line 275.
+
+
+! Package pdftex.def Error: File `avnpp.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 ...paperheight ,width=\linewidth]{avnpp.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 1960) in paragraph at lines 283--290
 []\T2A/ftm/m/n/14.4 ƒанный ал^^?го^^?ритм слож^^?нее ис^^?поль^^?зо^^?ва^^?ни€ 
@@ -1899,7 +1963,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 283--290
 
  []
 
-[24 <./avnpp.png>]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 290--300
 
  []
@@ -1927,7 +1991,7 @@ Underfull \hbox (badness 3482) in paragraph at lines 301--302
 поль^^?зу до^^?бав^^?ле^^?ни€ опи^^?са^^?ни€
  []
 
-[25]
+[26]
 Underfull \hbox (badness 1436) in paragraph at lines 315--317
 \T2A/ftm/m/n/14.4 к фор^^?ме со^^?зда^^?ни€ и ре^^?дак^^?ти^^?ро^^?ва^^?ни€ во^
 ^?про^^?са ок^^?на ре^^?дак^^?ти^^?ро^^?ва^^?ни€
@@ -1963,19 +2027,31 @@ Underfull \hbox (badness 2401) in paragraph at lines 321--322
  €в^^?л€^^?ю^^?щий^^?с€ офи^^?ци^^?аль^^?ной
  []
 
-[26
+[27
 
-] <class.png, id=108, 1385.175pt x 705.38531pt>
-File: class.png Graphic file (type png)
- <use class.png>
-Package pdftex.def Info: class.png used on input line 325.
-(pdftex.def)             Requested size: 455.24411pt x 231.81993pt.
+]
+
+LaTeX Warning: File `class.png' not found on input line 325.
+
+
+! Package pdftex.def Error: File `class.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 ...degraphics[width = \linewidth]{class.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
  []
 
-
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 345--346
 []\T2A/ftm/m/n/14.4 ћетод find_enum_orders_in_corrected_string на^^?хо^^?дит
  []
@@ -1998,19 +2074,18 @@ Underfull \hbox (badness 1728) in paragraph at lines 346--347
 ^^?р€д^^?ка лек^^?сем дл€ эта^^?лон^^?но^^?го
  []
 
-[27 <./class.png>] <tzsequence.png, id=113, 742.27313pt x 762.59906pt>
+<tzsequence.png, id=104, 742.27313pt x 762.59906pt>
 File: tzsequence.png Graphic file (type png)
-
-<use tzsequence.png>
+ <use tzsequence.png>
 Package pdftex.def Info: tzsequence.png used on input line 351.
 (pdftex.def)             Requested size: 455.24411pt x 467.72147pt.
- [28 <./tzsequence.png>]
+
 Underfull \hbox (badness 2495) in paragraph at lines 363--364
 []\T2A/ftm/m/n/14.4 ћодуль вы^^?дер^^?жал те^^?сти^^?ро^^?ва^^?ние гра^^?фи^^?ч
 е^^?ско^^?го ин^^?тер^^?фей^^?са и
  []
 
-
+[29] [30 <./tzsequence.png>]
 Underfull \hbox (badness 1454) in paragraph at lines 366--367
 []\T2A/ftm/m/n/14.4 дл€ ана^^?ли^^?за^^?то^^?ра пе^^?ре^^?чис^^?ле^^?ний 36 те^
 ^?стов, на ра^^?бо^^?ту всех
@@ -2028,7 +2103,7 @@ Underfull \hbox (badness 4341) in paragraph at lines 372--373
 тью, эле^^?мен^^?та^^?ми
  []
 
-[29]
+
 Underfull \hbox (badness 1275) in paragraph at lines 395--396
 []\T2A/ftm/m/n/14.4 ƒл€ CorrectWriting ис^^?поль^^?зу^^?ет^^?с€ пол^^?ный пе^^?
 ре^^?бор, ко^^?ли^^?че^^?ство
@@ -2040,7 +2115,7 @@ Underfull \hbox (badness 3623) in paragraph at lines 396--397
 е по^^?ка^^?за^^?ли, что
  []
 
-
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 403--404
 \T2A/ftm/m/n/14.4 его ис^^?поль^^?зо^^?ва^^?ни€. Ѕы^^?ли про^^?ана^^?ли^^?зи^^?
 ро^^?ва^^?ны те^^?сто^^?вые во^^?про^^?сы
@@ -2070,7 +2145,7 @@ Underfull \hbox (badness 2134) in paragraph at lines 409--410
 ^^?€в^^?л€^^?е^^?мой
  []
 
-[30]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 423--424
 \T2A/ftm/m/n/14.4 объ^^?ектно-^^?ори^^?ен^^?ти^^?ро^^?ван^^?но^^?го про^^?грам^
 ^?ми^^?ро^^?ва^^?ни€, под^^?дер^^?жи^^?ва^^?ет и
@@ -2088,7 +2163,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 424--425
 ?ва^^?ний сле^^?ду^^?ет
  []
 
-[31]
+[33]
 Underfull \hbox (badness 2088) in paragraph at lines 428--429
 []\T2A/ftm/m/n/14.4 ¬ хо^^?де дан^^?ной ра^^?бо^^?ты бы^^?ли ис^^?сле^^?до^^?ва
 ^^?ны спе^^?ци^^?фи^^?ка^^?ции и
@@ -2118,7 +2193,7 @@ Underfull \hbox (badness 1917) in paragraph at lines 431--432
 ду^^?л€ в тип во^^?про^^?са
  []
 
-[32
+[34
 
 ]
 Underfull \hbox (badness 6658) in paragraph at lines 436--437
@@ -2156,7 +2231,7 @@ Underfull \hbox (badness 1472) in paragraph at lines 444--445
 фак^^?то^^?ринг.
  []
 
-[33
+[35
 
 
 ]
@@ -2180,29 +2255,30 @@ Underfull \hbox (badness 2173) in paragraph at lines 449--450
 []\T2A/ftm/m/n/14.4 YUI API Docs [Electronic resource]. - Mode of access :
  []
 
-[34] [35
+[36] [37
 
 ] (./pz staroe.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10475 strings out of 493013
- 148634 string characters out of 6135682
- 259090 words of memory out of 5000000
- 13634 multiletter control sequences out of 15000+600000
- 23053 words of font info for 52 fonts, out of 8000000 for 9000
+ 10477 strings out of 493013
+ 148649 string characters out of 6135682
+ 259133 words of memory out of 5000000
+ 13630 multiletter control sequences out of 15000+600000
+ 23375 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,47p,1421b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/share/
 texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb></usr/local/share/texmf/fonts/type1/public/pscyr/
-textb19.pfb></usr/local/share/texmf/fonts/type1/public/pscyr/times.pfb>
-Output written on "pz staroe.pdf" (36 pages, 770679 bytes).
+ercour.pfb></usr/local/share/texmf/fonts/type1/public/pscyr/textb19.pfb></usr/l
+ocal/share/texmf/fonts/type1/public/pscyr/times.pfb>
+Output written on "pz staroe.pdf" (38 pages, 164376 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
+ 156 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 60 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 30 words of extra memory for PDF output out of 10000 (max. 10000000)
 
