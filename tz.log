@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  15 JUN 2017 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.24)  15 JUN 2017 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1595,7 +1595,7 @@ Here is how much of TeX's memory you used:
  50i,12n,47p,892b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}</usr/local/share/texmf
 /fonts/type1/public/pscyr/times.pfb>
-Output written on tz.pdf (21 pages, 1340944 bytes).
+Output written on tz.pdf (21 pages, 1340945 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
