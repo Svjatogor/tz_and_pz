@@ -3,12 +3,12 @@
 \RequirePackage{textcase} 
 \newcommand{\VSTUInitializeTZ} {%
 \input{TitleCommon.tex}%
-\renewcommand{\VSTUDocumentCodeSuffix}{91}%
+\renewcommand{\VSTUDocumentCodeSuffix}{}%
 \newcommand{\VSTULUCode}{А.В.00001-01~\VSTUDocumentCodeSuffix~01-1}%
 % Переопределение команды для разделов
 \renewcommand{\beforechapterskip}{\vspace{\GostBeforeTitleSkip}}%
 % Переопределение команды для нумерации приложений
-\gdef\theappendix{\VSTUDocumentNumbersPrefix\@arabic\c@appendix}%
+\gdef\theappendix{\@Asbuk\c@appendix}%
 % Переопределение нумерации страниц (сверху под кодом документа)
 \fancypagestyle{plain} {%
   \fancyhf{}%
@@ -34,7 +34,7 @@
 \vspace{8mm}
 \VSTUDocumentCode\\
 \vspace{8mm}
-Листов \totalpages\\
+Листов 20\\
 \vspace{8mm}
 \end{center}
 \begin{flushright}

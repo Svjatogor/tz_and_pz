@@ -120,7 +120,7 @@
 % Номер приказа (месяц задается строкой!)
 \newcommand{\VSTUOrderDate}{01}
 \newcommand{\VSTUOrderMonth}{января}
-\newcommand{\VSTUOrderYear}{2013}
+\newcommand{\VSTUOrderYear}{2017}
 \newcommand{\VSTUOrderNumber}{1000--ст}
 % Сеттеры
 \newcommand*{\VSTUSetOrder}[4]{
@@ -408,8 +408,8 @@
 \newcommand{\chaptertz}{%
   \beforechapterskip%
   \@startsection{chapter}{0}%
-  {-10mm}{0mm}{\GostAfterTitleSkip}%
-  {\center\normalfont\Gost@ChapterStyle}%
+  {\GostTitleIndent}{\GostBeforeTitleSkip}{\GostAfterTitleSkip}%
+  {\normalfont\Gost@ChapterStyle}%
 }
 \newcommand{\starchaptertz}[1]{
     \chaptertz*{#1}
@@ -665,7 +665,7 @@
   \renewcommand{\thetable}{\theappendix.\arabic{table}}%
   \renewcommand{\theequation}{\theappendix.\arabic{equation}}%
 
-  \addcontentsline{toc}{chapter}{\appendixname~\theappendix~---~{#1}}%
+  \addcontentsline{toc}{chapter}{\appendixname~\theappendix~{#1}}%
 }
 
 % Обычное приложение
@@ -704,7 +704,7 @@
   {
   \hyphenpenalty 10000
   \exhyphenpenalty 10000
-  \hfill {\appendixname~\theappendix} \\
+  \hfill {\center\appendixname~\theappendix}\\
   {{#1}}
   }
   \end{center}
@@ -738,7 +738,7 @@
   {
   \hyphenpenalty 10000
   \exhyphenpenalty 10000
-  \renewcommand{\contentsname}{Содержание}
+  \renewcommand{\contentsname}{Содержание\ttl}
   \chapter*{\contentsname}\@starttoc{toc}
   }
 }
@@ -802,7 +802,7 @@
                   {
                             \hyphenpenalty 10000
                                   \exhyphenpenalty 10000
-                                        \renewcommand{\contentsname}{\center{\hspace{-8mm}СОДЕРЖАНИЕ}}
+                                        \renewcommand{\contentsname}{{\hspace{-8mm}Содержание}\ttl}
                                               \chapter*{\contentsname}\@starttoc{toc}
                                                     }
                                                         }

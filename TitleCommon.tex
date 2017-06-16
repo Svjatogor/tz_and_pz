@@ -1,6 +1,7 @@
 \newcommand{\VSTUTitleHeading}{
 Министерство образования и науки Российской Федерации\\
-ФГБ ОУ ВПО «Волгоградский государственный технический университет»\\
+Федеральное государственное бюджетное образовательное учреждение высшего образования\\
+«Волгоградский государственный технический университет»\\
 }
 
 % подчеркивание с подписью/датой и подчеркивание с ФИО
@@ -15,7 +16,12 @@ $\underset{\text{(#2)}}{\uline{\makebox[#1]{#3}}}$%
 % Поскольку в бланке это поле изначально пустое,
 % используем костыль \vphantom{рЙ}, чтобы подогнать высоту.
 \newcommand{\VSTUTitleHeadAgreement}{
-
+\begin{minipage}[t]{12.5em}
+Согласовано\\
+\VSTUUnderlinedField{\textwidth}{должность гл. специалиста предприятия}{\vphantom{рЙ}\VSTUFacilityExpertPost}\\
+\VSTUUnderlinedField{2cm}{подпись}{\vphantom{рЙ \VSTUFacilityExpertDegreeAndName}}\hfill\VSTUUnderlinedField{4cm}{инициалы, фамилия}{\vphantom{рЙ}\VSTUFacilityExpertDegreeAndName}\\
+\vphantom{Й}<<\makebox[1.5cm]{\hrulefill}>> \makebox[3cm]{\hrulefill} \the\year
+\end{minipage}
 }
 
 % Box с подписью босса
